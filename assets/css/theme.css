@@ -5,6 +5,13 @@
   height: 40px;
 }
 
+/* Default styles */
+.hero-section {
+  position: relative; /* Ensure positioning context */
+  overflow: hidden; /* Hide overflowing content */
+  min-height: 100vh; /* Set a minimum height equal to the viewport height */
+}
+
 .hero-video {
   width: 100%; /* Set the width to 100% */
   height: 50vh; /* Maintain aspect ratio */
@@ -28,7 +35,6 @@
   z-index: 1; /* Ensure the dark layer is behind the video */
 }
 
-/* Default styles */
 .hero-content {
   position: absolute;
   top: 50%;
@@ -39,31 +45,21 @@
   z-index: 2; /* Ensure content is above the video */
   max-width: 80%; /* Adjust the max-width as needed */
   width: 100%; /* Set the width to 100% */
-  height: auto; /* Allow content to adjust its height */
-  max-height: 40%; /* Adjust the max-height as needed */
-  overflow-y: auto; /* Enable vertical scrolling if needed */
+  padding: 0 20px; /* Add padding to the sides */
+  box-sizing: border-box; /* Include padding in width calculation */
 }
 
 /* Media query for smaller screens */
-@media (max-width: 768px) {
+@media (max-height: 768px) {
   .hero-content {
-    padding: 0 20px; /* Add padding to the sides */
+    top: 50%; /* Adjust the vertical position */
+    transform: translate(-50%, -25%); /* Adjust the translateY value */
+    max-height: 60%; /* Adjust the max-height as needed */
+  }
+  .site-tagline {
+    display: none; /* Hide the second text */
   }
 }
-.hero-content .container {
-  max-width: 600px; /* Adjust as needed */
-}
-
-.hero-content h2, .hero-content .h2 {
-  font-weight: bold;
-  font-size: 2rem; /* Adjust as needed */
-}
-
-.hero-content .site-tagline {
-  margin-top: 20px; /* Adjust as needed */
-  font-size: 1.2rem; /* Adjust as needed */
-}
-
 .cta-btns {
   margin-top: 20px; /* Adjust as needed */
 }
