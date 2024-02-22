@@ -56,6 +56,7 @@ $twitter-color: #1DA1F2;
     z-index: 1; /* Ensure the dark layer is behind the video */
 }
 
+/* Default styles */
 .hero-content {
     position: absolute;
     top: 50%;
@@ -63,7 +64,19 @@ $twitter-color: #1DA1F2;
     transform: translate(-50%, -50%);
     color: white;
     text-align: center;
-    z-index: 2; /* Ensure content is above the dark layer */
+    z-index: 2; /* Ensure content is above the video */
+    max-width: 80%; /* Adjust the max-width as needed */
+    width: 100%; /* Set the width to 100% */
+    height: auto; /* Allow content to adjust its height */
+    max-height: 40%; /* Adjust the max-height as needed */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .hero-content {
+        padding: 0 20px; /* Add padding to the sides */
+    }
 }
 
 
