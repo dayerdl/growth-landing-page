@@ -9,7 +9,7 @@
 .hero-section {
   position: relative; /* Ensure positioning context */
   overflow: hidden; /* Hide overflowing content */
-  min-height: 100vh; /* Set a minimum height equal to the viewport height */
+  min-height: 50vh; /* Set a minimum height equal to the viewport height */
 }
 
 .hero-video {
@@ -50,7 +50,7 @@
 }
 
 /* Media query for smaller screens */
-@media (max-height: 768px) {
+@media (max-height: 468px) {
   .hero-content {
     top: 50%; /* Adjust the vertical position */
     transform: translate(-50%, -25%); /* Adjust the translateY value */
