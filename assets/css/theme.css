@@ -11976,14 +11976,14 @@ textarea.form-control-lg {
 /*********** Theme Variables **********/
 /*********** Theme Generic **********/
 body {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Maven Pro", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #526b84;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Nunito", sans-serif;
   color: #212B35;
   font-weight: 600;
 }
