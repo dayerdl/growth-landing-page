@@ -64,6 +64,9 @@
   .cta-btns {
     flex-direction: column; /* Arrange buttons in a row for larger screens */
   }
+  .logo-text {
+    font-size: 1.4rem;
+  }
 }
 /* Media query for smaller screens */
 @media (max-width: 490px) {
