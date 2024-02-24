@@ -71,24 +71,33 @@ $twitter-color: #1DA1F2;
     color: white;
     text-align: center;
     z-index: 2; /* Ensure content is above the video */
-    max-width: 80%; /* Adjust the max-width as needed */
     width: 100%; /* Set the width to 100% */
     padding: 0 20px; /* Add padding to the sides */
     box-sizing: border-box; /* Include padding in width calculation */
 }
 
 /* Media query for smaller screens */
-@media (max-height: 468px) {
+@media (max-height: 468px) or (max-width: 400px) {
     .hero-content {
-        top: 50%; /* Adjust the vertical position */
+        top: 20%; /* Adjust the vertical position */
         transform: translate(-50%, -25%); /* Adjust the translateY value */
         max-height: 60%; /* Adjust the max-height as needed */
     }
     
+    .site-headline {
+        font-size: 1.4rem; /* Decrease font size for smaller screens */
+    }
+
     .site-tagline {
         display: none; /* Hide the second text */
     }
+
+    .cta-btns {
+        flex-direction: column; /* Arrange buttons in a row for larger screens */
+    }
+
 }
+
 
 .cta-btns {
     margin-top: 20px; /* Adjust as needed */
