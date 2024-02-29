@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.growthapp.dayerdl",
+      "sha256_cert_fingerprints": [
+        "0F:C7:B4:F9:11:8F:BC:C7:40:93:69:4D:EF:69:ED:31:31:6C:72:D6:8D:D9:4B:75:4D:19:B3:EC:09:18:B0:50"
+      ]
+    }
+  }
+]
