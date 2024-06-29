@@ -2,8 +2,8 @@
   "applinks": {
     "details": [
       {
-        "appID": "8HGBRSCQG4.ccom.dayerdl.growthapp",
-        "paths": [ "*" ]
+        "appIDs": "8HGBRSCQG4.ccom.dayerdl.growthapp",
+        "components": [ "*" ]
       }
     ]
   }
