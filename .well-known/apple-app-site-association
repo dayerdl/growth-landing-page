@@ -1,10 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": "8HGBRSCQG4.com.dayerdl.growthapp",
-          "components": [ 
-            { "/": "*", "comment": "Matches any URL " } ]
+        "appID": "8HGBRSCQG4.com.dayerdl.growthapp",
+          "paths": [ "*", "/" ]
       }
     ]
   }
