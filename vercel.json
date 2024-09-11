@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/users/:path*",  // Match any URL that starts with /users/
+      "destination": "https://www.google.com", // Redirect to Google
+      "permanent": false  // Use 'true' if you want a permanent 301 redirect
+    }
+  ]
+}
