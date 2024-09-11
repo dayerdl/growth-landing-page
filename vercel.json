@@ -1,9 +1,6 @@
 {
   "redirects": [
     {
-      "source": "/users/:path*",  // This matches any URL that starts with /users/
-      "destination": "https://www.google.com", // This redirects to Google
-      "permanent": false  // Temporary redirect (302)
-    }
+      "source": "/users/:path*", "destination": "/profile.html", "permanent": false  }
   ]
 }
