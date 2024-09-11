@@ -1,6 +1,6 @@
 {
   "redirects": [
     {
-      "source": "/users/:path*", "destination": "/profile.html", "permanent": false  }
+      "source": "/users/:path*", "destination": "/index.html", "permanent": false  }
   ]
 }
