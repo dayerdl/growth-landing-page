@@ -1,2 +1,633 @@
-search_term,mapped_value
-placeholder,replace_with_your_data
+Location ID,Name,External ID,Top 10 most Frequent Misspellings (minimum 5 searches),Keywords
+247,3D Crystals | Kiosk,377,0,"anniversary gift, birthday gift"
+13096,3D Printed Fidgets,34415,0,"toys, fidget, anime, games, art, dragon, figures, animals, fun toys"
+248,3D World,30577,0,0
+249,3D World | 1st North,29379,,
+250,3D World | 1st North,29380,,
+251,5bulouz,26991,0,0
+252,5D Extreme Attraction by Matrix Technology,13891,"vr, laser","extreme,  virtual reality,  virtual, ride, cinema, 3d, fun, mystery mine, shark attack"
+253,925 Sterling Avenue | Kiosk,2,0,"beads, bracelet, earring, jewelry, necklace, rings, silver, sterling silver, stud earrings"
+13094,A Leading Role @ Kappa Toys,S238,,
+254,A Sure Fit,12311,0,"tailor, seamstress, alterations, alteration"
+256,A&W | 3rd North,427,0,"american, beef, burger, cheese curds, cheeseburger, chili cheese fries, chili dog, food court, foodie, fries, hot dog, military discount"
+255,A&W | 3rd South,3,"fod, foodc, food cout, anw","american, beef, burger, cheese curds, cheeseburger, chili cheese fries, chili dog, food court, foodie, fries, hot dog, root beer, military discount"
+292,A|X Armani Exchange,4,0,"casual, designer, dress, formal, handbag, jeans, jewelry, mens clothing, pants, scarf, shorts, skirt, tops, womens clothing, prom, prom dress"
+262,Aéropostale,8,"aero, areo, aeo, aerop, ao, aee, arep, aerp, aeropo, aeropostale, miniso","boots, boys, camisole, cardigan, casual, fleece, girls, graphic tee, hoodie, jeans, leggings, outerwear, polo, scarf, shirt, shorts, skirt, socks, sunglasses, sweater, sweatpants, sweats, sweatshirt, t-shirt, teen, teen clothing, tops, tween,"
+257,AARP,19276,aap,"retirement, benefits"
+258,Abercrombie & Fitch,17191,"abr, amber, abre, abrr, ambe, abc, abee, banana, bana, abro, aba, abet, free","boxers, button down, cardigan, casual, dress, fleece, flip flops, graphic tee, hoodie, jeans, leather, outerwear, pants, polo, shirt, skinny jeans, sweater, sweatpants, t-shirt, teen, teen clothing, tops, tween, women, abs, military discount"
+259,Abercrombie Kids,6,"abr, amber, abrr, gap kids","boys, casual, fleece, girls, jeans, kids clothes, pants, shirt, shorts, skirt, sweater, sweats, teen, tops, military discount"
+12130,ACCEZORIZ by 5bulouz,27141,"thc, weed, hide, cloud, smoke, smok, disp, clou","cbd, thc, THC, CBD"
+13068,Activate,33394,"actu, aci, active, laser, tact, laz, actia","entertainment, gaming, family, fitness, fun, teen, technology"
+13053,Adam Turman Artwork Co.,N125,,
+13246,Adopt Me | Kiosk,35404,miniso,"walking balloons, kids balloons, helium balloons, animal balloons, balloon pets, mall balloons, cute balloons, fun balloons for kids, floating animal balloons, MOA balloon stand"
+261,Aerie,7,"arie, aei, aie, aeru, aerir, aee, arei, aere, free people, airie, aru, arir, swim","bra, camisole, hoodie, leggings, lingerie, pajamas, pants, sports bra, strapless bra, sweatpants, sweatshirt, t-shirt, teen, underwear, yoga pants"
+14088,Aim Point | Coming Soon,36182,0,"experience, fun, challenge, airsoft, target, bb&#039;s, aim"
+263,Air Traffic,9,ait,"hobby, novelty, puzzle, souvenir, sporting, sports, stocking stuffer"
+264,Airbrush Art,384,0,"art, hobby"
+265,Airbudz,29044,0,0
+267,ALDO,10,"aldi, ao","booties, boots, dress shoes, handbag, heels, jewelry, loafers, mens shoes, oxfords, purse, riding boots, sandal, shoes, trendy, wallet, wedges, wing-tips, womens shoes"
+268,All Star ELITE,28752,"allst, allstar, alls, allsta, alll, all sr","sporting, jersey"
+269,Almost Famous Body Piercing,12,"peir, pei, almodt, perc, almk, almt, almot, piee, almod, hide, pierce","ear piercing, piercing"
+13190,Alo Yoga,34946,"ao, skims, free people, aloe, aol, free, brandy, skim, adidas, alo&","wellness, luxury, yoga, athleisure, active wear, workout, sneakers, shoes, women&#039;s, men&#039;s"
+270,Alpaca Connection,13,peru,"alpaca sweater, bags, beaded, beaded jewelry, crossbody bag, fur slippers, handbag, handcrafted, handmade, pullover, scarf, shirt, slipper, sweater, tote, zip up sweatshirt"
+271,Altar’d State,391,"alter, alte, altr, alterd, altered, alr, aly, altrd, altere, arula, free people, free, alted, aru, alar","casual dress, dress, women, womens clothing, prom, prom dress, alter"
+272,Amazing Mirror Maze,249,"mio, miro, mirri, sears, mit, mrr, mirrr, miror, mii","admission, fun, novelty"
+274,American Eagle | 1st South,14,"amr, amrr, amei, ameriv, amee, ameru, amw, mrr, amerin, americsn, amican, ameria, amerian, americab, americn, forever, amic, jc, amica, adidas","denim, flannel, hoodie, jean jacket, jeans, jewelry, outerwear, sandal, scarf, shirt, shorts, skirt, sweater, sweatpants, sweats, sweatshirt, teen, teen clothing, tops, wallet, military discount"
+275,American Eagle | 2nd North,428,"amr, amw, amei, amrr, amee, ameriv, ameru, americsn, tj, americn, ameria, amet, arie, amerin","denim, flannel, hoodie, jean jacket, jeans, jewelry, outerwear, sandal, scarf, shirt, shorts, skirt, sweater, sweatpants, sweats, sweatshirt, teen, teen clothing, tops, wallet, military discount, Ae"
+13001,Anime Figures | Kiosk,33670,"anm, anme",0
+276,Anime Fix,28369,"miniso, anu, animr, anm, anme, pokemon, aime, anie, aim, kpop, kapp, pok, anin, kappa, popmart, anije, anik",0
+277,Ann Taylor,16,"banana, jc, chico, banana republic, talb, bana, banana re, banan, jcrew, anna","ankle pants, blazer, blouse, cardigan, cashmere, casual, coat, cocktail dress, day dress, dress, dress pants, dress shirt, dress shoes, earring, evening dress, flats, formal, jacket, jewelry, leggings, necklace, pants, pencil skirt, peplum, purse, rings, scarf, shirt, skinny jeans, skirt, suit, sundress, sweater, t-shirt, tops, turtleneck, work dress, wrap dress"
+278,Anthropologie,369,"anr, anh, antr, antg, antgr, free people, free, anhr, anro, antro","decor, dress, furniture, wall decor, womens clothing, home decor"
+279,Apple,19201,"apl, appp, aple, apple store, applw, applr, apll, verizon, veri, apppl, appel, aop","bluetooth, computers, headphone, home theater, ipad, iphone, ipod, macbook, music, speaker, wifi, "
+13239,Arabian Oud | Coming Soon,35403,0,"arabian oud, madawi perfume, resala arabian oud perfume, oud perfume, arabic fragrance, oud perfume for women, middle eastern fragrances"
+280,Arc’teryx,25341,0,"backpack, puffer jacket, gloves, beanie, waterproof, rain jacket, running shoes, hiking shoes, outdoor store"
+281,Aritzia,25246,"aru, ariy, arut, artz, ariti, free people, aritza, arti, free, arz, artiz",0
+282,Art Cart,385,0,"art, hobby"
+284,Arwa Fashion,29175,"arwo, arwq, arww, awr, araw, arq, awra, aewa, awa, arawa, arwz",0
+13187,ARWA Mens,29175,"arwo, arwq, arww, awr, araw, arq, awra, aewa, awa, arawa, arwz",0
+283,AS Revival,28247,0,Arula
+285,ASICS,986,0,"athletic shoes, gym, mens shoes, womens shoes, volleyball, wrestling, leggings, sports bra, backpack, hats, gloves"
+287,Athleta,257,"atg, atl, aty, athk, free, bana, banana, aleta","casual, leggings, outerwear, sports, sweater, sweatpants, sweats, sweatshirt, workout pants, yoga pants"
+288,Auntie Anne's | 2nd East,19,"auny, aunty, aub, anni, auntir, prt, auh, auni, antie, anu, annie, auj","cheese, cinnamon, icee, lemonade, pretzel, pretzel dog, snack"
+13091,Auntie Anne's | 3rd East,33999,"auny, aub",0
+289,Auntie Anne's | 3rd North,429,"anni, aub, prt, annie, aunty, anu, annies, antie","cheese, cinnamon, icee, lemonade, pretzel, pretzel dog, snack"
+13185,Aura Jewels | Kiosk,35089,0,0
+291,Aveda Experience Center,20,"hair, salon, evr, avda, evry, avd, aeda, avea","beauty, haircare, healthy, lotion, skincare"
+13025,B Friendly | Kiosk,E6324,,
+293,B&B Theatres Bloomington 13 at Mall of America®,27777,"movie, amc, movi, bn, theater, bnb, movies, moie, theate, mv","theater, mo, mov, movi, movie, theatre, b&amp;b"
+294,babyGap/GapKids,21,,
+13316,Back to School Gift Card Giveaway,30812,,
+296,Baggallini,1996,"baga, bgg","handbags, travel"
+297,Baking Betty's,24103,,
+298,Bamboo Cases | Kiosk,349,0,iphone case
+299,Banana Republic,22,0,"a-line dress, a-line skirt, ankle pants, blazer, blouse, cardigan, cashmere, casual, classic, coat, cocktail dress, dress, dress pants, dress shirt, dress shoes, earring, flats, formal, handbag, heels, jacket, jeans, jewelry, loafers, mens shoes, necklace, pants, pencil skirt, polo, rings, sandal, scarf, shirt, shoes, shorts, skinny jeans, skirt, suit, sweater, t-shirt, tie, tops, turtleneck, wallet, wedges, women, womens shoes, work dress, wrap dress, Atelier"
+636,Banter by Piercing Pagoda | Kiosk,163,"pei, peir","earring, jewelry, platinum, sterling silver"
+300,Barnacle Blast Transfer Tower,2001,0,0
+301,Barnes & Noble,24,"barns, brn, bn, bae, bare, bnes, barnee, banes, bq, bsr, bqr, baes","books, cd, coffee, dvd, magazine, stationery, travel"
+302,Baseus by 4 Less Tech,27735,"best, bose",0
+303,Bath & Body Works | 1st North,25,"batg, bh, bth, bt, baty, barh, bq, bath a, bed, bqth","bathcare, body wash, bodycare, car fresheners, cleanser, lip gloss, lipcare, lotion, makeup, perfume, reed diffuser, scrub, shave, skincare, soap"
+304,Bath & Body Works | 2nd South,431,"bth, batg, bt, bh, bed, baty, bsth, bath a","bathcare, body wash, bodycare, car fresheners, cleanser, lip gloss, lipcare, lotion, makeup, perfume, reed diffuser, scrub, shave, skincare, soap"
+305,Beard Papa's,28746,"brd, berd, bed, paa, bearded, labubu, bewrd","cream puff, choux pastry, Japanese Pastry, choux cream, custard dessert, Japanese dessert, Japanese sweets"
+306,Beef Jerky Experience,5671,"jr, bef",0
+307,Benihana,296,"bn, benn, beh, bni, bei, bin, bani, beb, benh, behi, bene, hib, benny","appetizers, japanese, steak, stir-fry, sushi"
+13066,Bethlehem Olivewood Crafts,,,
+309,Blasted Ink,29458,tatoo,tattoo
+14081,Blind Havoc,36183,0,0
+310,Blue Nile,28939,,
+312,Blue Spot - Meet  Greet,1876,0,0
+748,Boba X,27783,"bobax, uni uni, bobo, uniuni, bobb, bobba, biba, drink, uni un, booba, drinks",0
+313,Body Corner | Kiosk,462,0,"earring, rings"
+314,Bonchon Korean Fried Chicken,24890,"bn, boj, boc","wings, korean, bimbimbap"
+315,Boot Barn,171,"booy, bootb, bt, boots, booo, bio, boob, western, bootbarn, bootbar, boot brn, booot","ariat, boots, cowboy boots, cowboy hat, equestrian, flannel, jeans, john deere, lucchese, mens boots, miss me, tony lama, wallet, western, womens boots, womens shoes, work boots, work shoes, wrangler"
+316,BOSS,31,"hugo, hug, hugo boss, boos, bss, hugo boos","blazer, button down, designer, dress pants, dress shirt, dress shoes, formal, pants, polo, shirt, suit, sweater, tie, watch, prom, hugo, hugo boss, Athletic Wear, athleisure, casual"
+317,Bougies Boutique,28919,,
+13313,Boujee Pets | Kiosk,35761,0,0
+318,BoxLunch,392,"bx, boc, boxed, bix, miniso, box lu, disney, box lunch, box l, boxe","memorabilia, toy"
+319,BoxLunch | Kiosk,27059,,
+322,Brighton,32,brit,"bracelet, earring, handbag, jewelry, leather, necklace, purse, rings, scarf, sterling silver, ornament"
+323,Brow Art 23,34,"eyebr, brows, thre, bw, brw","beauty, makeup, skincare"
+325,Bubba Gump Shrimp Co.,35,"buba, bbb, baba, buu, bbu, dick","seafood, cocktails,  parties, fried seafood, family restaurant, Shrimp"
+327,Buckle,203,"buv, bucj, buk, bucl, bucke, bucklr, bukl, bck, bukle, mau","7 for all mankind, affliction, beaded, beanie, betsey johnson, big star, billabong, bke, blouse, board shorts, boot cut, boots, bracelet, button down, canvas bag, cargo, casual, casual dress, clutch, cowboy boots, cowboy hat, cowl neck, crew neck, crochet, cropped pant, day dress, dc shoes, denim, diesel, dockers, dollhouse, duffle bag, ear warmer, earring, ed hardy, element, ezekiel, famous stars and straps, faux fur, faux leather, fedora, flare, fleece, fleece jacket, floppy hat, floral, fox racing, girly, guess, hair accessories, henley, hoodie, hurley, jean jacket, jeans, jewelry, keds, lace, long sleeve, loungewear, maxi skirt, metallic, midi skirt, military hat, military jacket, mini skirt, moccasin, moto jacket, necklace, obey, peacoat, plaid, polka dot, puffer jacket, pullover, puma, purse, quicksilver, reef, rhinestone, rings, rock revival, rock star, rocket dog, rvca, sam edelman, sandal, scarf, sequin, sheer, shirt, stretch pant, studs, sweater, sweatshirt, tank top, teen, tops, triple five soul, trucker hat, tube top, uniform, v-neck, volcom, western, military discount"
+328,Buffalo Wild Wings,36,"bufa, bf, bff, bw, buu, bww, bbw, bdu, baf, bufalo, baff, bufl","american, beer, burger, chicken, food specialty, ribs, salad, sports, wings"
+329,Build-A-Bear Workshop®,37,"bild, bld, buid, bud, buik, builf, biu, buld, build a, buu, buio","handcrafted, plush, toy"
+330,Burberry,38,0,"designer, designer handbag, dress, dress pants, dress shirt, handbag, luxury, perfume, polo, purse, scarf, tote, trench coat, wallet, prom, dresses, prom dress"
+331,Burger Burger,321,"bug, burer, buger, burgr","american, burger, casual, fast food, fries, shake"
+332,Burger King,334,"mcd, bug, burgr, bue, bger, burer, fod, buger, buer, mcdo, bk, burgrr","american, burger, cheeseburger, chicken, dinner, fast food, fries, grill, lunch, mc"
+333,Bussin Birria Tacos,29418,"tao, bss","gluten-free, dairy-free, Halal, mexican, bussin, hal, gluten free, dairy free"
+334,Cadillac Ranch,19231,"cada, cadd, cd, catt, cadu, caa, haz, cai","beef, beer, brisket, burger, chicken, cocktail, fries, salad"
+335,Canada Goose,25620,"canda, cada, caa","Moose Knuckles, outdoors, outdoor apparel, winter, coat"
+13080,Canada Weather Gear,33962,0,"jacket, coat, outerwear, Accessories, winter, vests, sweater, parka, bomber jacket, lightweight"
+12517,Candy Cane Institute,27288,0,"candy cane institute, CCI, san, sant, santa, santa photos, elf, elves, Santa Claus, tour"
+336,Cantina Laredo,329,"cnt, cani, catina","chicken, dinner, drink, fish, food, gluten-free, lunch, mexican, seafood, steak, vegetarian, Queso"
+337,Canvas Corner,14851,0,0
+338,Capital One Café,27758,"cp, cai, capitol, capiy, capt, cpi, capito, cpit, capil, cait, capitl","bank, banking, atm, cash"
+339,Carhartt,251,"cah, carr, carg, crh, cae, caa, cqr, csr, dick, carth, cq, cara, cwr, mau, cz","mens clothing, womens clothing,  abrasion resistant, active wear, big/tall, blaze orange, boots, camo boots, camouflage, casual, coat, cotton/canvas, dungaree fit, firm duck, fishing, flame resistant, footwear, heat resistant, high-visibilty, hiking, hiking boots, hoodie, hunting, hunting gear, jacket, jeans, knives, logger boots, long sleeve, loose fit, outerwear, overalls, oxfords, pants, rainwear, relaxed fit, safety glasses, safety toe boots, sandstone, series 1889, shirt, short sleeve, shorts, socks, steel toe boots, straight fit, suspenders, sweatshirt, traditional fit, twill, unlined boots, utility pants, vests, wallet, water repellent, work boots, workwear, baby, kids, military discount"
+344,Caribou Coffee,434,,
+340,Caribou Coffee | 1st North,41,"caru, cai, carr, cri, cofee, cae, caribu, carb, cf, cara, cofe, cib, carbou, caib, caribi, cfee, cff, csr","beverage, breakfast, coffee, lunch, smoothie, snack, tea"
+345,Caribou Coffee | 2nd North,435,"cri, carr, cai, caribu, cara","beverage, breakfast, coffee, lunch, smoothie, snack, tea"
+342,Caribou Coffee | 3rd South,432,"carr, cri, cai, cara, caru, cff, cf, cofee","beverage, breakfast, coffee, lunch, smoothie, snack, tea"
+341,Caribou Coffee | Transit Center,26993,"carr, cai",0
+346,Caricatures,381,0,"art, hobby, caricature, caricatures"
+347,Cariloha,5516,,
+348,Carlo's Bakery,1291,"bud, carls, crlo, cae, calo, crl, budd","baked, bakery, dessert, buddy, cake, sweets, sweet,  wedding, desert"
+350,Carter’s babies and kids OshKosh B’gosh,42,"cae, carr, carts, crt, carer, cartw, caa, cartr, cater, care, carers, crtr, caer, catr, cartee, cate","2-piece outfit, 3-piece outfit, active wear, b&#039;gosh blue jeans, baby, baby clothes, baby shoe, bedding, bib, blanket, booties, boys, burp cloth, cardigan, costume, diaper bag, dress, girls, infant, infant clothes, jacket, jeans, jumper, kid, kids clothes, kids shoes, neutral, one piece, onesie, oshkosh, outerwear, overalls, pajamas, pants, shirt, sleeper, slipper, snowpant, snowsuit, socks, sweater, swimwear, tights, tops, toy, underwear"
+351,Casper,8126,0,"bed, mattress, bedroom, Sleep number, purple"
+352,"Cedar + Stone, Urban Table",19291,"cea, cd, ceder, hazelwood","brunch, Mother&#039;s Day, Mother&#039;s Day Brunch, Mothers Day Brunch"
+353,Cell Shield | Kiosk,463,0,"cell phones, iphone case, phone case, tablet case"
+354,Cell Shield | Kiosk,464,0,"cell phones, iphone case, phone case, tablet case"
+355,Cell Shield | Kiosk,8421,0,"cell phones, iphone case, phone case, tablet case"
+356,Cell Solution | Kiosk,375,0,"cell phones, cell, cell phone"
+357,Cellairis | Kiosk,43,0,"bluetooth, cell phones, iphone"
+359,Champs Sports,44,,
+360,Champs Sports,436,"chap, chmp, dick, dicks, chq, cmp, chs, chams, camps, mlb, chh, chaps, chp","baseball, basketball, bears, collegiate, football, hockey, jersey, minnesota, minnesota viking, runner, sporting, tennis shoes, timberwolves, twins, vikings, wisconsin, NFL fan gear, soccer"
+12102,CHANEL Fragrance and Beauty,31136,chann,0
+12477,Charlotte Russe,31838,"charo, forever, charr, charle, chs, charol, chark, chsr, forev, chor, chh, charll, cgar",0
+365,Chicago Furniture,27228,0,0
+366,Chick-fil-A,1336,"chik, chc, chicj, chiv, cic, cick, cck, fod, cgi, chich, chk, chivk","chicken sandwich, chik, chick, chick fil a"
+367,Chipotle,49,"chio, cip, chp, chipol, chipoy, cp, chipp, cpo, chipotlr, cipo, chipt, nau, cj","beef, burrito, chicken, food court, food specialty, mexican, taco"
+12726,Chocolate Moonshine Co.,,,
+12533,Christmas Treasures,31612,chru,"christmas, ornament, santa, personalized ornament, stockings, nutcracker, collectibles, first christmas, gnome, snowman"
+12935,Chubbies,33283,cubb,"mens, shorts, casual, vacation, kids, swim, sport, athleisure, swim trunks, lounge"
+368,Cinnabon | 1st East,51,"cina, cnn, cib, cii, cij, cna, cinnn","baked, beverage, breakfast, cinnamon, dessert, food specialty, juice, smoothie, snack, water, military discount, kosher"
+13098,Cinnabon | 3rd West,24103,,
+370,Claire's | 1st East,437,"clairs, clir, cai","bracelet, charms, decor, earring, jewelry, lip gloss, makeup, necklace, rings, sterling silver, teen, tween, military discount"
+369,Claire's | 2nd East,52,"clairs, clir, cai, cll, clare, clr, cls, clau, clares, clq, clire, caire","bracelet, charms, decor, earring, jewelry, lip gloss, makeup, necklace, rings, sterling silver, teen, tween, military discount"
+371,Claire's | 3rd North,438,"clairs, cai, clir","bracelet, charms, decor, earring, jewelry, lip gloss, makeup, necklace, rings, sterling silver, teen, tween, military discount"
+372,Clarks,53,"clr, clak, cark, clrk, clk, claks","boots, clogs, comfort, comfortable shoes, dress shoes, flats, heels, leather shoes, sandal, shoes, tennis shoes, womens shoes, work shoes"
+13276,Classy Cotton Candy | Vending,35577,cotten,cotton candy
+13275,Classy Cotton Candy | Vending,35578,0,0
+13274,Classy Cotton Candy | Vending,35579,0,0
+13273,Classy Cotton Candy | Vending,35580,0,0
+373,ClimbZone,29967,"clb, clib, cmb, wall","rock climbing, rock climbing for kids, Nickelodeon Universe, Birthday Party, indoor rock climbing, climbing wall, kids activities, attraction, family fun"
+13223,Clip Money,34870,0,"cash, deposit, clip, business service, utility, money, cash management"
+374,Club Monaco,54,0,"ankle pants, cardigan, cardigans, casual, cocktail dress, day dress, dress, dress pants, dress shirt, fashion forward, formal, jeans, necklace, pants, pencil skirt, scarf, shirt, shorts, skirt, sweater, tops, trendy, work dress, prom, prom dress"
+375,Coach,55,"coacg, coch, coh, coah, cach, coq, couch, couc, cp, coacj, cac","crossbody bag, designer, designer handbag, handbag, leather, purse, satchel, scarf, tote, wallet"
+801,Coaster Café,30660,0,"coaster, cafe, co, cof, coff, coffe, coffee, esp, espr, espre, espres, espress,  espresso, smo, smoo, smoot, smooth, smoothi, smoothie, smoothies, smoothy, te, tea, energy drinks, ene, ener, energ, energy, drinks, drink, la, lat, latt, latte, ba, bak, bake, bakery, nickelodeon universe, sweets, treat, treats, Caribou"
+13074,CoComelon Playdate,33614,cco,"children, toddlers, families, playground, experience, playdate, interactive play, learning, cocomelon tickets, play space tickets"
+13672,CoComelon Playdate Store,34173,0,"children, toddlers, families, playground, experience, playdate, interactive play, learning, cocomelon tickets, play space tickets"
+378,Cold Stone Creamery | 1st East,24016,"cod, cd, colds, cld, icec, icecre, colf, ice crm, coldst, icecr, ice cra, cols, ice crean, ice crem",Coldstone
+377,Cold Stone Creamery | 3rd South,57,"cod, colds, cld, cd, cols, coldst, colf, icecream, icr, ice crem, cop, ice crean, cp, icec","candy, chocolate, dessert, food specialty, fresh fruit, ice cream, coldstone"
+379,Columbia Sportswear,58,"colm, coli, colo, cum, coum, dick, colb, pata, clum, rei","boots, dress, fall, fleece, outerwear, pants, runner, sandal, scarf, shorts, sporting, spring, summer, tops, travel, vacation, watch, winter, sorel, jacket, coat, colombia, Shoes, footwear, Accessories, youth, apparel, youth apparel"
+13295,Convenience Central,35669,"gas, convi","pizza, hot dog, greeting card,  toys, lottery, fruit, milk, medicine, Toiletries, Coke, food, holiday"
+383,Cotton:On | Temporarily Closed,346,"ctt, cotton on, coto, coy, coton, cottn, cotton o, coyy, coyt, cotte, citt, cotn, cottom, cp",cotton/canvas
+384,Cowboy Jack's,394,"cw, coe, coy, dick, coboy","food, burger, steak"
+385,CRAVE,61,"cve, crv, crae, crve, cravw, cave, crq, cav, kra, crace, crr, craves, cae, crac, crw","american, beef, beer, burger, chicken, cocktail, gluten-free, happy hour, pasta, pizza, private dining, salad, sandwich, sushi, brunch, Mothers Day Brunch, Mother&#039;s Day, Mother&#039;s Day Brunch"
+386,Crayola Experience®,327,"crat, cay, crayl, crs, crw, crao, croy, crau, crayi, crr, cryo","art, colorful, creative, family friendly, fun, interactive, kid"
+13116,Crayola Store,327,"crat, cay, crayl, crs, crw, crao, croy, crau, crayi, crr, cryo","art, colorful, creative, family friendly, fun, interactive, kid"
+389,Crocs,237,"cri, crc, ccs, crock, cocs, crcs, cros, crs, croo, crov, cric","boots, casual, clogs, comfort, comfortable shoes, mens shoes, sandal, shoes, sneakers, womens shoes"
+13302,Culinary On North,2081,0,0
+390,Custom World,27499,0,0
+391,Custom World | Kiosk,29214,0,0
+392,Custom World | Kiosk,30174,,
+393,Dairy Queen/Orange Julius,64,"dq, diry, dary, dir, orng, icec, daiy, orag, daury, ornge, dairu","dessert, ice cream, juice, shake, smoothie, dq"
+394,DeLeo Bros Pizza,28104,"piza, pz, pix, pzz, delo, pzza","food court, food specialty, junk food, pizza, pasta, stromboli, salad,  sandwiches"
+398,Doc Popcorn,66,"dip, dipp, dc, docs, dov","caramel, cheese, food specialty, kettle, popcorn, snack"
+13065,Doctors Without Borders | Kiosk,,,
+12886,Doremi Sofa,,,
+12924,Double-Dare Human Crane,33330,claw,"fun, game, activity, play, family, entertainment, arcade, prize, experience, challenge"
+399,Dr. Martens,247,"doc m, dc, dok, docm","boots, casual, leather, sandal, shoes"
+13026,Dream Garden | Kiosk,33751,flowers,"handmade, crochet, flower, keychain, crochet bag, crochet plush, crochet bouquet, crochet single flower, crochet hairclips"
+400,Dream Riders,28205,0,0
+817,DSW,63,"dw, dws, shos, dss, sg, tj, birk, dsww, dsq, adidas, df, addidas, marshall, adid, banana, miniso, ddw, dh, dse, daw, shes, soe, bsw, dicks, dfw, ddsw","athletic shoes, bags, ballet, booties, boots, casual, clogs, comfortable shoes, crossbody bag, dress shoes, flats, flip flops, formal, handbag, heels, leather shoes, loafers, mens boots, mens shoes, purse, sandal, shoes, sneakers, socks, tennis shoes, tote, wallet, womens shoes, work shoes, converse, converse shoes, adidas, birkenstock, Sorel"
+402,DTLR,305,"dtr, dtk, dlr, dtrl, dltr","athletic shoes, leather shoes, mens shoes, shoes, slip on shoes, sneakers, tennis shoes, walking shoes, wedge sneakers, womens shoes, adidas, Nike, Fila, Timberland,, Puma, Jordan, Black Pyramid, Champion"
+13196,Dubai Chocolates | Kiosk | 1st North,35124,dubi,0
+13208,Dubai Chocolates | Kiosk | 1st West,31967,dubi,0
+13209,Dubai Chocolates Luxe | Kiosk,35199,"dubi, db, dui, miniso, chc",chocolate
+403,Duck Donuts,28495,,
+13900,Duck! | Coming Soon,36105,0,"attraction &amp; entertainment, family fun, arcade, sweets &amp; treats, toys &amp; games, things to do, claw machines, japanese experience, interactive experience, date night"
+404,Dunkin',26094,"dk, dunj, duk, dunkij, dunc, dnk, dn, don, duh, dki, duki, duni, dunn, duj, dujk, dum, dunkn","coffee, bakery, beverage, breakfast, coffee, pastry, sandwich, donuts, donut, snack, tea"
+874,Dutchman's Deck Adventure Course,2101,0,"zipline, rope course, zipl"
+406,East Guest Services,2216,0,"stroller, lost and found, rentals, ECV, wheelchair, double stroller, coupon book, shopping bag, gift card, lockers, tickets, point passes, Bundles, wristbands, attraction bundles"
+12933,East Lot,,,
+415,Ebisu,29769,"ebu, miniso, ebs, jap, ebidu, ibi, ebiu, ibisu, ebsu, minis, ebisy, ebid, grocery",0
+416,Eddie Bauer,67,"edie, eddy, eddu, eddd, lands, rei","fishing, fleece, hunting, jeans, mens clothing, outerwear, pants, shirt, tops, water, winter, womens clothing, military discount"
+12865,Edikted,32833,"edu, edk, eik, edij, edic, edii, ediky, ek, addic, adic, brandy, adik, evry, evr","clothing, womens clothing, womens fashion, women&#039;s clothes, clothing brand, women&#039;s wear, fashion"
+13079,Elumina Décor | Kiosk,E6107,,
+419,Empress Eyelashes | Vending Machine,27860,,
+420,EVEREVE,1351,"evr, every, evry, vr, evee, eer, jc, banana, evrr","Ankle, jeans, tops, pants, dresses, skirt, Accessories"
+421,Everything But Water,68,0,"beach, bikini, swimsuit, swimwear, travel, vacation, water, swim"
+13327,Evry Jewels,35721,"every, evey, evy, jewl","jewelry, Evry Jewels, necklace, earring, bracelet, rings, accessories, charms,  gifts, hand chains"
+799,Executive Center,2146,0,0
+423,Express,69,"hide, hideaway, banana, exr, exprs, expree, epress, jc, expss, bana, exre, repu, exprss, banana republic","a-line dress, blouse, bracelet, casual, casual dress, cocktail dress, day dress, dress, dress pant, dress pants, dress shirt, dressy, earring, formal, jewelry, mens clothing, necklace, pants, party dress, rings, scarf, shirt, shorts, skirt, suit, sweater, t-shirt, tank top, tops, turtleneck, wallet, watch, womens clothing, wrap dress, prom, prom dress, military discount"
+12419,Exquisite Heritage | Kiosk,,,
+424,Eyebobs,11331,0,"glasses, readers"
+425,Fabletics,27652,"fb, fav, fbl, fabe","workout, workout pants, yoga"
+13310,Faith and Grace Organics,35621,0,"Minnesota Made, natural skincare, organic skincare, family-owned business, sustainable beauty, small batch skincare, earth-friendly products, clean beauty, holistic skincare, local skincare brand"
+429,Famous Footwear | 1st North,439,"fm, famu, fams, shes, sg, adid, fmou, fmo, adidas, birk, famos, shos, fot, famoud, famus, on cloud, fau, hey, fao, faus, brooks","ankle boot, athletic shoes, ballet, booties, boots, boys, casual, cold weather boots, flats, flip flops, girls, heels, loafers, mens shoes, runner, running, sandal, sneakers, sports, tennis shoes, wedge boots, wedge sneakers, wedges, womens shoes, converse, converse shoes, birkenstock, military discount"
+428,Famous Footwear | 3rd West,70,"fm, fams, fao, famos, adidas, famu, fmou, sg, famoi, famoud, shos, fmo, faa, fq, famouse, hey, marsh, birk, fw, verizon, faou, fot, adida, soes, famus, asics","ankle boot, athletic shoes, ballet, booties, boots, boys, casual, cold weather boots, flats, flip flops, girls, heels, loafers, mens shoes, runner, running, sandal, sneakers, sports, tennis shoes, wedge boots, wedge sneakers, wedges, womens shoes, converse, converse shoes, adidas, military discount"
+9269,Fancy Purses | Kiosk,,,
+12507,Festival of Trees,30195,0,Festival of trees
+431,Final Cut Sports Barbershop,372,"hair, salon, barer, hair cut, fn, cuts, bae, baber, bare, fia, bber","hair, haircut, mens, kids, shaving services, grooming, military discount"
+432,FireLake Grill House Cocktail Bar,273,"hazelwood, wine, beer","american, appetizers, barbeque, breakfast, burger, cocktail, dinner, happy hour, lunch, vegetarian, minnesota food, brunch, Mother&#039;s Day, Mothers Day Brunch, Mother&#039;s Day Brunch"
+433,Five Below,1801,"5 b, fivr, 5 be, fve, fie, fv, fib, 5be, marsh, doll, 5 below, fuve","Dollar, Dollar Store, 5, school supplies, toys, games, candy, snacks, 5below"
+434,Fixology,241,"fx, fio, jewl, watcg","bracelet, earring, jewelry, necklace, rings, watch, military discount"
+435,FJALLRAVEN,314,"faj, fall, kanken","athletic shoes, backpack, camping, hiking, mens boots, mens clothing, mens shoes, outdoor, utility pants, women, womens boots, womens clothing, womens shoes, work boots, workout, workout pants, military discount"
+436,Fly Zone at Kids Foot Locker,352,0,athletic shoes
+437,FlyOver America,316,"fy, flu, fly o","family friendly, fun, new ride, ride, flyover america, flyover, military discount"
+12408,Focused Clothing,31676,0,0
+438,Focused Clothing | Kiosk,27888,,
+439,Foot Locker,250,,
+489,Foot Locker,32071,"fot, footl, footlo, fooy, adidas, fooo, adid, fini, finish, sg",0
+440,Forever 21,72,0,"a-line dress, ankle boot, ankle pants, blazer, blouse, booties, boots, bracelet, button down, button front, camisole, cardigan, cardigans, casual, casual dress, chandelier earring, club wear, cocktail dress, crew neck, cropped pant, cuff, day dress, denim, dress, dress pant, dress pants, dress shirt, drop earring, earring, flats, graphic tee, handbag, heels, jacket, jeans, jegging, jewelry, jumpsuit, leggings, maxi skirt, midi skirt, military jacket, mini skirt, moto jacket, necklace, pants, party dress, pencil skirt, purse, rompers, scarf, shorts, skirt, sneakers, socks, stud earrings, sunglasses, sweater, sweatpants, sweats, sweatshirt, t-shirt, tank top, teen, tops, tween, wallet, zip up sweatshirt, forever21, forever 21, riley rose, forv, foe, forevr, foreer, forvr, fov, frever, forver, frev, fe, freve"
+441,Fossil,297,"fss, fosi","bags, jewelry, men&#039;s jewelry, pocket watch, purse, shoes, sunglasses, watch, womens jewelry, handbags"
+13087,FP Movement,34002,"free, free people, free p, free pe, free peo, freep, free peopl, free peop, people, peop, peo","athletic, athleisure, women, jacket, fitness, beauty, leggings, sports bra, sweats, skincare"
+442,Francesca's Collections,73,"frn, fn, frab, frnc, franch, frs, frac, frw, frank","a-line dress, blouse, boots, bracelet, camisole, casual dress, chandelier earring, cuff, day dress, decor, dress, drop earring, earring, flats, gift shop, handbag, jewelry, necklace, pants, purse, rings, sandal, scarf, shirt, shorts, skirt, stocking stuffer, stud earrings, sundress, sunglasses, sweater, tank top, tops"
+443,Franki by Francesca's,29218,,
+444,Free People,285,freee,"casual dress, dress, jeans, lace, leggings, pants, shirt, sweater, sweatshirt, t-shirt, womens clothing"
+445,Freshens Crepes and Smoothies,292,"soo, smoth, acai, frh, nau, fresg, crap, smot, frs","crepe, food specialty, healthy, smoothie"
+446,Freshens Yogurt,74,,
+448,Fun Toys | Kiosk,27635,0,0
+447,Fun Toys | Kiosk,27675,0,0
+449,Games by James,75,"gm, gae, gas, gaes, gams, gamee, gmes, gamed, pokemon, gme, gamw, gamr","brain games, cards, casino, checkers, chess, game, games, puzzle, stocking stuffer, toy"
+450,GameStop,440,"gm, gae, gme, gamr, gq, game stop, gamw, gaa, gane, game st, best, gamestp","games, nintendo, pc, playstation, videogames, xbox, pop culture"
+451,Gap / Gap Body,77,,
+452,Garage,78,"gae, gaa, grg, garge, gsr, garaf, garg, grage, grag, gwr","a-line dress, casual, casual dress, cocktail dress, dress, dressy, fashion forward, girls, graphic tee, hair accessories, hoodie, jacket, jeans, jegging, jewelry, midi skirt, outerwear, pajamas, pants, pencil skirt, scarf, shirt, shorts, skirt, sleepwear, socks, sweater, teen, teen clothing, tops, trendy, tween, womens clothing"
+453,GEAR Store,240,0,"action figure, kid, nickelodeon universe, plush, toy, ticket, tickets, retail"
+457,GNC/General Nutrition Center,80,"gmc, gm, gnv","healthy, sporting, sports, vitamins, supplements"
+458,Go! Calendar Games & Toys,25840,0,0
+12417,Go! Games / Go! Toys,N384,,
+460,Goldy's Locker Room,82,"gop, gd, goldi, goly, gopher, gody, gld","baseball, basketball, collegiate, football, hockey, jersey, minnesota, shirt, sporting, sports, timberwolves, twins, vikings, UMN, rally"
+461,Good Health Saunas,27160,0,0
+12409,gorjana,30882,"gorg, goj, jewl",0
+462,Got Kilt?,5681,0,"got, got kilt, kilt"
+463,Great American Cookies,267,,
+590,Great American Cookies | 1st West,143,"grt, nestle, nest, gret, mrs","baked, chocolate, confection, dessert, cookie, cookies, ice cream, brownie, sundae, smoothie, coffee"
+591,Great American Cookies | 2nd East,449,"nest, toll","baked, chocolate, confection, dessert, cookie, cookies"
+12833,Great Big Game Show,32777,"gae, gret","games, trivia, family friendly, competition, game show, things to do"
+465,Great Steak & Potato | 3rd North,441,grear,"american, beef, cheesesteak, chicken, salad, sandwich"
+464,Great Steak & Potato | 3rd South,83,grt,"american, beef, cheesesteak, chicken, salad, sandwich"
+468,GRUB,108,0,"dessert, ice cream, junk food, icee, soda, water, pop, hot dog, chicken, chicken tenders, dip n&#039; dots"
+470,GUESS,84,"gus, guee, guss, gss","blouse, dress, handbag, jeans, mens clothing, scarf, shirt, shorts, skirt, sweater, tops, womens clothing"
+471,H&M,85,"hh, forever, hnm, tj, forev, forever 21, marsh, hym, jc, hy","boots, boys, bracelet, cardigans, dress, girls, handbag, hoodie, jeans, jewelry, leggings, lingerie, maternity, mens shoes, necklace, outerwear, pants, sandal, scarf, shirt, shorts, skirt, socks, suit, sweater, sweatshirt, tights, tops, underwear, vests, waistcoats, womens clothing, womens shoes"
+472,H&M Man,21076,"hh, hym, tj, marsh, uniq",0
+473,Häagen-Dazs,86,"haa, hg, hagg, ice crm, ice crean, haag, haga, ice cam, hog, hs, icec, ice crem, hgen","chocolate, dessert, ice cream, gelato, haagen, ha, haa, haag, haage, milkshakes, smoothie, smoothies, sundae, Dazzler, treat, treats, coffee, desert, dairy, cold"
+474,Hammer Made,283,hmm,"button down, button front, dress shirt, jeans, mens clothing, outerwear, pants, socks, sweater, ties, Hammermade"
+475,Helzberg Diamonds,89,"jewl, hez","bracelet, chandelier earring, diamond earrings, diamonds, drop earring, earring, engagement ring, gold, jewelry, necklace, personalized jewelry, platinum, rings, silver, stud earrings, watch, wedding"
+476,Hemp House x Milstagrams | Kiosk,30075,,
+477,Herbal Alchemy,27141,"thc, weed, hide, cloud, smoke, smok, disp, clou","cbd, thc, THC, CBD"
+478,Heritage Estate Jewelry Co.,25407,"jewl, jewer, hrr, hei","handbag, handbags"
+479,Hey! Joy,27107,,
+480,Hideaway Express,26467,,
+481,Hockey Minnesota by Goldy's Locker Room,90,"nhl, hocky, hockr, hok","football, hockey, jersey, minnesota, sporting, sports, sweatshirt, winter, wisconsin, UMN"
+482,Holiday Stationstore,91,,
+483,Hollister,92,"holister, hoi, hp, hll, hli, holo, hollid, holis, hh, hollit, hollo, holll","bikini, bra, casual, dress, hoodie, jeans, leggings, outerwear, pants, polo, shirt, shorts, skirt, surfing, sweater, sweatpants, sweatshirt, teen, tops, tween, underwear, zip up sweatshirt"
+484,Home & Beyond,27688,"homr, marsh, tj, cooking",0
+876,Honor Roll Athletics,,,
+486,Hooters,19246,"hott, hooy, hh, hooo, hoor, hoots, hootr, dick, hoters, dicks, hootes, hoter, hooer, hooers, beer, hoors","american, beef, beer, beverage, chicken, fries, salad, sandwich, sporting, sports, wings, military discount"
+13249,Hope's Gallery | Kiosk,35434,0,"souvenir, flowers,  gifts,  wedding, roses, graduation, fifteen years, floral arrangement"
+487,Hot Topic,95,"hoy, hott, hot topiv, hh, hotto, hotb, miniso, hotv, hp, hotn, hot tp, hot p, vict","bags, bandanas, books, cd, dress, dvd, hoodie, jeans, jewelry, leggings, lingerie, music, outerwear, poster, scarf, shirt, shoes, socks, sunglasses, suspenders, sweater, sweatshirt, tie, tote, underwear, wallet"
+488,Hot Topic | Kiosk,27058,,
+875,House of Queens & Kings,30806,0,0
+490,House of Queens @ Community Commons,28422,,
+797,Huntington® Bank Rotunda,30218,,
+491,I Love Minnesota,276,"suv, souv, ilo, i i, i loe, minnest, mnn, i lovr, miniso, sov, i le, mii, minnesta","bears, decor, hockey, jewelry, minnesota, souvenir, stocking stuffer, sweater, sweatshirt, t-shirt, wall decor, military discount"
+492,iAccessories | Kiosk,12321,0,0
+493,iAccessories | Kiosk,27230,0,0
+495,Ichiddo Ramen,27778,"ramn, ichido, rae",0
+496,Impulse,100,jewl,"beads, bracelet, charms, earring, jewelry, necklace, rings"
+497,INDOCHINO,5799,indi,"prom, suits, tailor, custom suit, men&#039;s suit, men&#039;s blazer, tuxedo, tailored suit, wedding suit, formalwear, workwear, women&#039;s suit"
+498,Indulge   Bloom,345,,
+12923,Iris Gallerie,33295,iis,"photography, art gallery, light box, jewelry, decor, home, artwork,  gifts, custom"
+499,IT'SUGAR,337,"its s, cany, cndy, cady, iy, suar, sg, iits, suger, its su, cay, cdy, cab, iit, its sug, cnd, itd, suge, sgar, its sugar","candy, food, snack"
+500,J.Jill,258,"j jill, chicos, j ji, j j, chico, j jil, talbots, jc","blouse, camisole, dress, jeans, jewelry, outerwear, pants, scarf, shirt, skirt, sweater, tops, womens clothing"
+501,Jamba Juice,232,"jm, jab, jmb, acai, jaa, jba, js, jb, jum, jaba, jmba, nau","beverage, fresh fruit, healthy, juice, smoothie, snack"
+503,JD,205,"dj, jd sp, jd spo, jds, jf, adidas, nikr, jd sport, jb, adid, js, fini, jc, dick","asics, bags, baseball, basketball, boots, casio, casual, champion, collegiate, converse, eddie bauer, fila, football, g-star, garmin, jacket, jansport, jersey, jordan, k-swiss, keds, levi&#039;s, look see, lugz, marvel, minnesota, mizuno, new balance, new era, new ride, nike, polo ralph lauren, puma, reebok, rocawear, runner, running, sandal, saucony, sean john, shorts, skechers, socks, sporting, sports, sports bra, sunglasses, supra, sweats, sweatshirt, tennis shoes, timberland, timberwolves, twins, under armour, vests, vikings, wisconsin, workout pants, zephyr, zip up sweatshirt, conv, converse shoes, adidas, NFL fan gear, finish, finish line"
+504,Jerk King,28873,"jr, jk, jek, jamai, jrr, carr","Jerk King, jerk, fast food, fast casual, Caribbean, Halal"
+505,Johnny Rockets,103,"jh, jon, jonn, johny, jho, jnny, jonny, jn","american, beef, burger, fries, nostalgia, salad, shake"
+506,Johnston & Murphy,104,0,"blazer, boots, coat, dress shoes, flats, handbag, heels, leather, luggage, mens boots, pants, sandal, scarf, shirt, socks, sunglasses, sweater, tie, vests, wallet"
+507,Journeys,105,"jur, jr, jout, jor, joun, joi, adidas, journy, birk, jourb, adid","boots, handbag, hoodie, jacket, leggings, sandal, shirt, skateboard, sneakers, snowboard, socks, surfing, teen, tween, wallet, watch, converse, converse shoes, birkenstock, backpack, Vans, ugg, timberland, north face, fila"
+508,Juicebox,28664,jue,0
+12534,Just Cozy,29218,,
+509,JW Marriott Minneapolis Mall of America®,19286,"mrr, sears, mario, sear, j w","rooms, restaurant , hotel"
+12510,Kappa Toys,S238,,
+510,Karl's Fishing & Outdoors - Temporarily Closed,29764,,
+511,kate spade new york,315,kates,"a-line dress, beaded jewelry, bridal jewelry, casual dress, cocktail dress, day dress, dress, dress pant, dress pants, dress shirt, dress shoes, dressy, eyewear, fragrance, jewelry, jewelry chain, personalized jewelry, stationery, sundress, work dress, wrap dress, prom, prom dress"
+512,Kay Jewelers,107,"kays, jewl, vict, kj","birthstone, bracelet, chandelier earring, diamond earrings, diamonds, drop earring, earring, engagement ring, gold, jewelry, pendant, personalized jewelry, platinum, rings, silver, stud earrings, watch, wedding,  Leo Diamond, Movado, Neal Lane, Emmy London, 3-stone, Love+Be Loved, Ever Us, Bulova, Citizen, pocket watch"
+513,Kendra Scott,18341,"kenda, kndr, keb, knd, kendrs, kdr, krn, kndra, free, kenf, kenr","jewelry, earring, necklace, Blue Nile"
+515,KeyMe | Vending Machine | 3rd East,380,0,"service,  keys,  key,  key maker,  key copier"
+514,KeyMe | Vending Machine | 3rd West,24109,0,0
+516,Kids Foot Locker,109,"kds, kif, footlo, footl, kid f","comfort, dress, foot locker, hoodie, jacket, jeans, jersey, pants, runner, shirt, shorts, sneakers, sporting, sports, sweats, tennis shoes, vests, adidas, NFL fan gear"
+517,Kiehl's,236,kh,"anti-aging, body wash, bodycare, cleanser, conditioner, eye cream, fragrance, haircare, healthy, lip gloss, lipcare, lotion, makeup remover, mask, moisturizer, natural skincare, scrub, shampoo, shave, skincare, soap, toner, wrinkle cream"
+12725,Kizik,32380,"kz, kiik, kix","Shoes, sneakers, mens shoes, womens shoes, kids shoes, slip on shoes, shoe store, mens sneakers, womens sneakers"
+518,Knit & Crochet,17406,"yarn, kniy, cri","yarn, knit, knitting"
+519,Kura Sushi,30093,"suh, susg, suhi, susi, kua, sud, sushu, sui, kra, masu, kir, kira, sshi, kut, dick, kuro","japanese,  japanese food , asian, sushi, family friendly, seafood, food, restaurant, Kura, Kura Sushi, Full Service Restaurant, Revolving Sushi, Udon, Ramen, Salmon, Tuna, Rice, Conveyor Belt, Conveyor Belt Sushi, Kura Revolving Sushi, Revolving"
+521,L.A. Nails,111,"nau, nil, salon, nils","beauty, manicure, nail polish, pedicure"
+522,L.L.Bean,309,"ll b, ll bean, lll, ll be, lands, rei, bn, ll br, ll bn, ll ban, ll bea, jl, l&","ll,  ankle pants, camp shirt, camping, cropped pant, hunting gear, l.l.bean, pants, shirt, snowpant, socks, stretch pant, sweater, sweater vest, sweatpants, sweats, sweatshirt, t-shirt, undershirt, utility pants, windpant, workout pants, wrap sweater, yoga pants, zip up sweatshirt, llbean, l.l. bean, swiss, pocket knife, army, llbean"
+524,La Michoacana Purepecha,28230,"miv, micg, mih, lami, mh, icec, mivh",ice cream
+13280,Laderach,35591,laud,"chocolate,  gifts, dessert, cacao, cocoa, FrishSchoggi, Dubai Chocolate, white chocolate, milk chocolate, dark chocolate, food + beverage, laderach"
+525,Lane Bryant,113,"lae, jc, mau, lanr, maurices","a-line dress, ankle pants, blazer, blouse, bra, bracelet, camisole, cardigan, casual, casual dress, coat, cropped pant, day dress, dress, dress pant, dress pants, dress shirt, earring, handbags, hoodie, jacket, jeans, leggings, necklace, panties, pants, plus-size, scarf, shirt, shorts, skinny jeans, skirt, socks, stretch pant, sundress, sunglasses, sweater, sweatpants, sweatshirt, t-shirt, tank top, tee, tights, tops, underwear, v-neck, wallet, work dress, wrap dress, plus size"
+12815,Larissa Loden,E234,,
+13186,Laughing Waters Spa,32923,0,"massage, relaxing, therapeutic, caring, pampering, luxurious, calming, revitalizing, lovely, stress free, magic"
+526,Lavish Shea Butter | Kiosk,29110,0,0
+13944,Lea Loren Jewelry | Kiosk | Coming Soon,36099,0,"jewelry, necklace, rings, bracelet, fashion jewelry, nickel and lead free jewelry, sterling silver jewelry, affordable jewelry, high quality jewelry, earrings"
+13183,LED Balloons | Kiosk | 1st North,28522,0,0
+13009,LED Balloons | Kiosk | 3rd East,33241,0,"LED Balloons, BOBA Balloons, Balloons, Birthday Balloons, Gender Reveal Balloons, Printed Balloons, Custom Balloons, Christmas Balloons"
+528,Legacy Toys,25840,0,0
+529,Lenscrafters,115,"lns, lense","designer, eyewear, fashion forward, glasses, sunglasses"
+12535,Levels,30808,0,"LVL, LVLS"
+530,Levi's,116,"lvi, levu, lei, lvis, levs, lrv, lrr, levie, lrvi, lew, liv, levid, lebi, mau, jc, levus","bags, bandanas, booties, boots, casual, clutch, dress, jacket, jeans, outerwear, oxfords, pants, scarf, shirt, shoes, shorts, skirt, sneakers, socks, sweater, sweatshirt, tank top, tie, tops, vests"
+532,Lids | 1st East,445,"hat, lds, hats, lidd, lii, jc, lods","hats, alumni, baseball, basketball, collegiate, football, hockey, jersey, minnesota, minnesota viking, sporting, sports, timberwolves, twins, vikings, wisconsin, NFL fan gear"
+533,Lids | 2nd North,446,"lidd, mlb, lir, lds, miniso","hats, alumni, baseball, basketball, collegiate, football, hockey, jersey, minnesota, minnesota viking, sporting, sports, timberwolves, twins, vikings, wisconsin, NFL fan gear"
+531,Lids | 3rd East,444,"hat, lidd, hats, mlb, lods","hats, alumni, baseball, basketball, collegiate, football, hockey, jersey, minnesota, minnesota viking, sporting, sports, timberwolves, twins, vikings, wisconsin, NFL fan gear"
+535,Lindt Chocolate,118,"lint, lidt, lindor, lyn, lindo, ldt, linf, lij, lindy, lndt, lnd, lii, lidnt","candy, chocolate, confection, dessert, gift shop, snack, truffle"
+536,Lip Lab,28229,,
+537,Little Tokyo,341,"jap, miniso, kpop, lil","japanese,  food,  japanese food"
+12515,Little Words Project,32121,0,"beaded bracelet, friendship bracelet, connect, live, give, jewelry, original word bracelet"
+538,LLAKTA,27133,0,0
+539,LMNTS,27540,"lmt, lmny","alchemist, rhude, marni, martine rose, a cold wall, advisory board crystals, flaneur, purple brand, ksubi, honor the gift, represent, pleasures, 424, rta, kidsuper, blue sky inn, crtfd, parra"
+520,L'Occitane,120,l&,"bodycare, conditioner, fragrance, gift shop, haircare, lipcare, lotion, perfume, shampoo, skincare"
+540,Loft,121,"lft, the loft, mau, banana","a-line dress, a-line skirt, animal print, ankle pants, blazer, blouse, booties, bracelet, button down, button front, casual, casual dress, cropped pant, day dress, denim, dress, dress pant, dress pants, dress shirt, drop earring, flats, heels, jacket, jean jacket, jeans, jewelry, leggings, necklace, outerwear, pants, peacoat, pencil skirt, scarf, sheath, shirt, skinny jeans, skirt, socks, stud earrings, sunglasses, sweater, t-shirt, tights, tops, tote, talbots"
+543,Long John Silvers,122,lng,"long, food, cheese curds, chicken, fish, fries, hand dipped, seafood"
+545,Lotus Beads,26,"loy, loyus, lots, ltus, loyu, lout","beads, bracelet, charms, jewelry"
+547,Love From Minnesota,124,"mnn, suv, souv","fishing, keepsake, memorabilia, minnesota, souvenir, travel, military discount"
+14087,Love Your Melon | Coming Soon,36042,0,"hat, accessories, beanie, cancer"
+548,Lovepop Kiosk,28693,,
+549,Lovesac,125,0,"comfort, furniture, plush"
+12516,Lovisa | 1st North,32047,"loi, luv, jewl, lui",0
+550,Lovisa | 2nd West,25483,"loi, luv, lovu","earring, necklace, headband, Barrette, ear ring"
+551,Lucky Brand,126,,
+552,lululemon experiential store,127,"luu, luli, lil, lull, lulu lemon, luly, luku, luk, lulu le, lulue, lulu l, lilu, lululm","bags, casual, dress, healthy, hoodie, jacket, outerwear, pants, runner, shorts, skirt, socks, sporting, sports bra, sweats, sweatshirt, tank top, tops, underwear, yoga pants, Athletic Wear, athletic, sporting, sporting , yoga mat, yoga, wellness, activities"
+553,lululemon fuel space,26113,"luu, lol, luli, lulue, lil, lolo, luul, lulu le, luluemon, lull","smoothie, shake, coffee, tea, smoothy, pastry, food"
+554,Lush,128,"luh, lusg, lh, lud, ludh, luch, hair","anti-aging, aromatherapy, bathcare, body lotions, body tint, body wash, bodycare, bubble bars, cleanser, cologne, conditioner, deoderant, exfoliator, eye cream, face mask, footcare, fragrance, hair treatments, haircare, handcare, healthy, lip gloss, lipcare, lotion, makeup, makeup remover, mask, massage oil, moisturizer, natural skincare, scrub, shampoo, shave, shower gel, shower jellies, skincare, soap, toner, wrinkle cream"
+555,LVLS House of Hoodies,27728,,
+556,Lyft Lounge,2781,,
+560,M Health Fairview,25086,0,"urgent care, minute clinic, hospital, health, pharmacy, flu shot, walk in, walk in clinic, first aid, clinic"
+561,M&M’S,26547,"mnm, m and, m and m, m &m, mand, m an, sears, mam, m &, m&m store, mmm, mms","chocolate, M&amp;M, M &amp; M, MM, mandm, M&amp;Ms, M&amp;M&#039;s, mars, candy"
+562,MAC Cosmetics,129,0,"beauty, blush, bronzer, cleanser, conditioner, exfoliator, eye liner, eye shadow, foundation, fragrance, hairspray, handbag, lip gloss, lipstick, lotion, makeup, makeup brush, makeup remover, mascara, moisturizer, nail polish, perfume, primer, shampoo, skincare, toner, wrinkle cream"
+13229,Macarons by Maddie Lu,35250,"macr, macc, macro, macaroo, macroon, dirty","macarons, cannoli"
+564,Macy's,19251,"jc, mcy, may, mq, mz, mact, sears, tj, mays, marsh, maa, max","mazy, mazys, a-line dress, a-line skirt, active wear, ankle pants, athletic shoes, baby clothes, barbeque, barware, beauty, bikini, blazer, blouse, blush, booties, boots, boxer brief, boxers, boys, bra, bracelet, bronzer, button down, cableknit, camisole, cardigan, cashmere, casual, casual dress, chandelier earring, clutch, coach, coat, cocktail dress, cold weather boots, cologne, comfortable shoes, cropped pant, crossbody bag, cutlery, day dress, decor, denim, designer, designer handbag, diamond earrings, dress, dress pants, dress shirt, dress shoes, dressy, drop earring, earring, evening dress, eye shadow, flats, fleece, formal, foundation, fragrance, glassware, handbag, heels, homecoming, hosiery, jacket, jeans, jewelry, kids shoes, leather shoes, lingerie, loafers, lotion, makeup, mascara, michael kors, pajamas, pants, watches, tag heuer, longines, gshock, rolex, backstage, ralph lauren, polo, ralph, versace, mattress, furniture, Armani Exchange, Sorel, The North Face, Timberland, Chanel, Flower Bomb, Marmot, Effy, LeVian, Swarovski, UGG, Levi&#039;s, Champion"
+565,Macy's Backstage,18676,"tj, mcy",0
+13075,Macy's Court,19251,"jc, mcy, may, mq, mz, mact, sears, tj, mays, marsh, maa, max","mazy, mazys, a-line dress, a-line skirt, active wear, ankle pants, athletic shoes, baby clothes, barbeque, barware, beauty, bikini, blazer, blouse, blush, booties, boots, boxer brief, boxers, boys, bra, bracelet, bronzer, button down, cableknit, camisole, cardigan, cashmere, casual, casual dress, chandelier earring, clutch, coach, coat, cocktail dress, cold weather boots, cologne, comfortable shoes, cropped pant, crossbody bag, cutlery, day dress, decor, denim, designer, designer handbag, diamond earrings, dress, dress pants, dress shirt, dress shoes, dressy, drop earring, earring, evening dress, eye shadow, flats, fleece, formal, foundation, fragrance, glassware, handbag, heels, homecoming, hosiery, jacket, jeans, jewelry, kids shoes, leather shoes, lingerie, loafers, lotion, makeup, mascara, michael kors, pajamas, pants, watches, tag heuer, longines, gshock, rolex, backstage, ralph lauren, polo, ralph, versace, mattress, furniture, Armani Exchange, Sorel, The North Face, Timberland, Chanel, Flower Bomb, Marmot, Effy, LeVian, Swarovski, UGG, Levi&#039;s, Champion"
+566,Madewell,287,"md, mde, mae, free, free people, madell, madw, jcrew, madewll, madewl, jc, madel, banana, maw","bags, blouse, bracelet, casual, clutch, coat, cocktail dress, crossbody bag, day dress, dress pants, dress shoes, duffle bag, earring, evening dress, eyewear, formal, girls, hair accessories, jacket, jeans, jewelry, luggage, necklace, peplum, rings, satchel, scarf, skinny jeans, socks, sundress, sweater, sweatshirt, tights, tops, tote, umbrella, wallet, women, work dress, plus-size, plus size, extended sizes"
+12724,Maggie's Boutique,32499,"mgg, dress, maf, prom, maa, boti","prom, heels, jewelry, womens fashion, trendy, bridal, luxury dresses, gowns, elegant"
+12506,Malibu Barbie Cafe,,,
+209,Mall of America [Mall Hours],,,
+798,Mall of America®,,,
+567,Mall of America® Gift Store,132,"mll, ml, souv, suv, git, sov","keepsake, memorabilia, plush, shirt, souvenir, sweatshirt, tops, travel, charger , phone charger"
+568,Mall of America® Gift Store,448,"mll, ml, suv, git, souv","keepsake, memorabilia, plush, shirt, souvenir, sweatshirt, tops, travel"
+12784,MallofAmerica.com,,,
+13331,Mango | Coming Soon,35846,0,0
+12407,Manitobah,N144,,
+569,Margaritaville,339,"mrg, mae, marf, mara, maa, mz, dick, msr, mqr","food, tropical,  margarita,  jimmy buffett,  jimmy buffet, military discount, burger, family friendly, full bar, Full Service Restaurant, full service dining, nacho, nachos, American cuisine, craft cocktails, cocktail, sit-down, sit down dining, retail, seafood"
+12864,Marine Layer,33147,0,"soft, comfortable, coastal, casual, effortless, sustainable, california, relaxed, quality, versatile"
+570,Mars Jameson @ Community Commons,29178,,
+571,Marshalls,133,,
+572,Mason’s Famous Lobster Rolls,27776,"masn, maon","lobster roll, m, ma, mas, maso, mason"
+12228,Master Noodle,320,,
+573,Masu Sushi & Robata,243,,
+574,maurices - Closed,135,0,"a-line dress, active wear, blazer, blouse, boots, bracelet, button down, camisole, cardigans, casual, casual dress, chandelier earring, coat, day dress, diamond earrings, dress, dress pant, dress shirt, dress shoes, dressy, drop earring, earring, fragrance, hair accessories, handbag, heels, jacket, jeans, jewelry, leggings, long sleeve, necklace, outerwear, pants, plus-size, purse, rings, scarf, shirt, shorts, skinny jeans, skirt, sleepwear, socks, stud earrings, sweater, sweatshirt, tank top, tee, teen, tights, tops, tween, vests, watch, Evsie, girls clothing, sizes 8-12"
+13272,Mavi | Coming Soon,35560,0,"denim, jeans, lifestyle, sustainable, on-trend denim, eco-friendly, premium denim, fashion-forward"
+13085,McMillions Apparel,34264,0,0
+575,MCMillions Apparel | 2nd South,28663,0,0
+13259,Memory Block | Kiosk | Coming Soon,35529,0,"Photo Printing, Instant Photo, Personalized Photo, Wooden Blocks, Print Memories in Minutes"
+576,Michael Kors,137,"mk, miche, mih, miv, mick, mik, mch","booties, boots, bracelet, clutch, crossbody bag, designer, designer handbag, diamond earrings, dress, earring, eyewear, flats, fragrance, handbag, heels, hosiery, jacket, jeans, jewelry, michael kors, necklace, outerwear, phone case, purse, rings, sandal, satchel, scarf, shoes, shorts, shoulder bag, skirt, sneakers, sunglasses, tank top, tote, umbrella, wallet, watch, wedge boots, wedges, womens clothing, womens shoes, wristlet"
+13238,MINISO | Coming Soon,35407,0,"blind box, toys, plushies, collectibles, keychain, figurines, snacks, cosmetics, anime,  gifts"
+13089,Minneapolis Craft Market | Sat + Sun Only,,,
+577,Minnesot-ah!,139,"mnn, souv, mine, miniso, minnest, minno, minneo, minnn, minis, mnes","keepsake, minnesota, souvenir, travel,  gifts, military discount"
+579,Mins Fashions,29627,,
+578,Mins Fashions | Kiosk,29248,"miniso, minso",0
+13010,MN Express | Kiosk,,,
+9257,MOA Special Events,30812,,
+246,MOA Test,TestID,,
+580,Mobile Zone,19411,0,0
+9259,Mochinut,31174,"moh, mch, mochu, moci, mohi, mhi, mchi, movh, mocj, mh, movhi, mocji","donut, donuts"
+13286,Mogouyan Hand Pulled Noodle | Coming Soon,35713,0,"noodles, hand-pulled noodles, Chinese noodles, chinese cuisine, noodle restaurant, Asian fusion, skewers, noodle soup, chinese food"
+581,Mona Williams,19301,"mna, laundry","laundry, home decor,  gifts, stain removal, laundry evangelist, laundress, patrick, patric"
+582,Moose Knuckles,29892,,
+583,Moose Mountain Adventure Golf,140,"gof, putt, gf, mii, mose, mouse, mim, mini golf, mimi, glf, mooe, moe","entertainment, family friendly, games, golf, sporting, military discount"
+13054,Mr. Waffle Dessert,26139,,
+12861,Mugsy,32957,0,"fun, enthusiastic, genuine, relatable, confident, social, irreverent"
+527,Muhayyo Henna Tattoo | Kiosk,27889,,
+9258,Museum of Illusions,30643,"mue, meu, ilu, mues, musea, muu, muee, meus, mur, mea, illl, musem, illo, vr","fun, cool, awesome, school, kids, puzzle, things, lost, customer, zara"
+12832,Mystery Card Redemption,30812,,
+585,Mystic Lake Casino Hotel,141,0,"admission, casino, games, travel"
+586,Naf Naf Grill,356,nafn,"naf naf,  naf grill,  naf naf grill,  grill"
+587,Nail Trix,142,nil,"beauty, decor, manicure, nail polish, pedicure"
+12509,Nautical Bowls,S336,,
+13188,NBA Store,35328,"nbq, nbs, dicks, nbw, wnba, dick, tj, hat, mlb, nbz, sears","sports, jersey, jerseys, hats, headware, apparel, memorabilia, sporting goods, basketball, NBA"
+588,Nectar Bath Treats,29011,0,0
+589,Nespresso,424,"nessp, np, nep, nee, nesspr","coffee maker,  espresso maker,  espresso,  nespresso, coffee"
+13189,New Balance,34943,"nee, newb, asics, adidas, dick, shes, adid, nrw, nw, newba, reb, shos, new bl, sears, tj","Shoes, footwear, apparel, women, kids, running, lifestyle, sportswear, men"
+592,New Dragon Acupressure,25137,"mess, mssa, accu, drg","acupuncture, massage"
+690,Nickelodeon Universe Food Cart,1891,fod,"mini donuts, dip n&#039; dots, popcorn, soda, water, pop, icee"
+603,Nickelodeon Universe Food Cart,1896,"fod, foof, foodc, fio, fooo, foodcourt","mini donuts, soda, water, pop, dip n&#039; dots"
+772,Nickelodeon Universe Food Cart,1901,fod,"mini donuts, soda, water, pop"
+608,Nickelodeon Universe Food Cart,1906,"fod, foodc","soda, water, pop, popcorn"
+593,Nickelodeon Universe®,145,"nico, roller, disney, nicko, rides","admission, kid, new ride, nicko, military discount"
+594,Nickelodeon Universe® Guest Services,1841,,
+595,Nickelodeon™ Shop,239,0,"action figure, boys, girls, plush, shirt, toy, retail, ticket, tickets, redemption, redemptio, redempti, redeem, redempt, 250, two , 250promo, rewards, attraction rewards, reward, 50, $50, $50 rewards, Bundle, Bundles, Attraction bundle, attraction bundles, packages, attraction packages, nick packages, nickelodeon packages, special packages, holiday packages, packages, pack, annual pass"
+596,Nicola's Wig Boutique,27511,,
+597,Nike,146,"nikr, nii, niie, adidas, nikw, nij, niki, dick, nije, nio, adid, dicks","backpack, bags, basketball, basketball shoe, dress, golf, headband, hoodie, jacket, jersey, leggings, pants, runner, shorts, skirt, sneakers, socks, sporting, sports, sports bra, sweater, sweater vest, sweatpants, sweats, sweatshirt, swimwear, tank top, tennis shoes, tights, vests, vikings, yoga pants, NFL fan gear, military discount"
+363,Niko Niko Boba | 1st North,22466,"nico, nio, niki, nko, uni uni, bobo, nikk, chat, nikoniko, nii","Boba, Bubble Tea, Iced Tea, Fruit Tea, Milk Tea, Smoothies, Coffee, Tea Lattes, Ice Cream, Hot Tea"
+12729,Niko Niko Boba | 3rd North,32354,"nico, nio, niki, bobo, nko, nijo, nikon, nikk, nii, niio, nikko","boba, bubble tea, iced tea, Fruit Tea, Milk Tea, Smoothies, coffee, Tea Lattes, ice cream, Hot Tea"
+364,Niko Niko Boba | 3rd South,245,"nico, nio","Boba, Bubble Tea, Iced Tea, Fruit Tea, Milk Tea, Smoothies, Coffee, Tea Lattes, Ice Cream, Hot Tea"
+598,Noodles & Company,147,"nod, nodd, noof, nooo, nodl, nool, noods","american, food court, healthy, pasta, salad, soup, military discount"
+599,Nordstrom,19256,"nrd, nod, norr, nird, noe, nors, norths, norf, nore, nos","j crew, allbird, allbirds, yves, yve,  yves saint laurent, Saint Laurent, Laurent, tom ford, ford, tom f, chanel, chan, chane, cha, ver, vers, versa, versac, versace, polo, ral, ralp, ralph, ralph l, ralph la, ralp lau, ralph laur, ralph laurent, watch, watches, nordstom, nod, nr, nordt, nordsr, norst, nordstromr, Blue Nile, Moose Knuckles, Topshop, Topman, dior, Prada, Gucci, brunello, brunello cucinelli, brunell, louis, louis vuitton, Dolce and Gabbana, Dolce &amp; Gabbana, Dolce, Gabbana, rag and bone, rag &amp; bone, Acne Studios, Anthropologie, Armani Exchange, hugo boss, hugo, boss, Burberry, coach, express, guess, kate, kate sp, kate spa, kate spad, kate spade, Shoe Shine , Shoes, alter, altera, alterat, alteratio, alteration, alterations, balenciaga, la mer, char, charlotte, Charlotte Tilbury, til, Tilbury, chris, Christian Louboutin, Louboutin, give, given, Givenchy, chl, Chloe, monc, Moncler, akr, Akris Punto, Punto, lafay, Lafayette 148 New York, zim, zimmer, zimmerman, Zimmermann, gold, Golden Goose, Off White, White, alex, alexan, Alexander McQueen, mcq, mcque, McQueen, westm, westma, Westman Atelier, atel, ateli, Atelier, Jo Malone London, cre, cree, Creed, Brun, Skims, Zegna, Chanel shoes, formal, evening dress, cocktail dress, prom"
+3601,Nordstrom Rack,149,"tj, marsh, nrd, rck, nod, mars, nordtr, norr, nors, marshalls","a-line dress, a-line skirt, ankle pants, athletic shoes, baby shoe, backless bra, backpack, bags, ballet, boots, bra, bracelet, canvas bag, casual, casual dress, clock, coach, coat, cocktail dress, crossbody bag, day dress, designer, designer handbag, dress, dress pant, dress pants, dress shirt, dress shoes, duffle bag, evening dress, flats, flip flops, handbag, heels, hoodie, jansport, jeans, jegging, jersey, leggings, luggage, michael kors, nike, panties, pants, party dress, prom dress, runner, sandal, scarf, shirt, shorts, shoulder bag, skirt, sneakers, sports bra, sundress, sunglasses, sweater, sweatpants, tennis shoes, tights, tops, under armour, undershirt, underwear, vans, wallet, watch, work boots, work dress, work shoes, workout pants, workwear, wristlet, yoga pants, nordstorm, adidas, prom"
+12105,North Atrium,30812,,
+877,North Garden,2641,0,"Fan Gallery, Fan"
+605,North Guest Services,2201,0,"stroller, lost and found, rentals, ECV, wheelchair, double stroller, coupon book, shopping bag, gift card, lockers, tickets, point passes, bundles, wristbands"
+13199,North Lot,28379,"norh, nortg, north e, exit, north entrance, north en, nrth, ikea, sears",0
+12934,North Parking,,,
+607,North Self-Service Ticketing,1846,0,"ticket, tickets, ssk"
+609,Northwoods Candy Emporium,269,"cady, cany, cndy","candy, caramel, chocolate, dessert, food specialty"
+12514,Nothing Bundt Cakes,31729,"noy, bunt, noh, nh, noyh, noti, noi, nothu, nith, nothg, notg","Nothing Bundt Cakes, Nothing, Bundt, cake, bundt cake, cakes, dessert, treat, cupcake,  gifts, sweets, treats"
+610,NULEEV CBD,28214,"vape, hide, smoke, hideaway, thc, cloud, gig, weed, disp, smok","sleep, anxiety, pain relief, muscle pain, skin care, pets,  pet, health, wellness, nuleev, cbd, THC, thc"
+611,Oakley,150,"okl, oal, oakly, okley, oaj","board shorts, boyshort, eyewear, fleece, fleece jacket, goggle, golf, hoodie, pants, puffer vest, pullover, shirt, shorts, snowboard, sporting, sports, sunglasses, surfing, sweater, sweatpants, tank top, tee, tops, backpack"
+612,Oakley,450,0,"board shorts, boyshort, eyewear, fleece, fleece jacket, goggle, golf, hoodie, pants, puffer vest, pullover, shirt, shorts, snowboard, sporting, sports, sunglasses, surfing, sweater, sweatpants, tank top, tee, tops, backpack"
+613,OFFLINE by Aerie,29226,"arie, offline, offli, aei, offlin, aeru, aie, aee, aerir","offline, aerie"
+13277,OG ZaZa | Coming Soon,35585,0,0
+614,Oh Baby!,26011,"bby, ohb, mater",0
+615,Old Navy,151,"ols, tj, mau, banana, gp, maur, opd, olr, jc, the gap, marsh, marshalls, oldn","active wear, baby, baby clothes, boys, coat, dress, dress pant, dress pants, dress shirt, earring, flats, flip flops, girls, hoodie, jean jacket, jeans, jersey, jewelry, leggings, mens clothing, necklace, outerwear, pants, sandal, scarf, shirt, shorts, skinny jeans, socks, sports bra, sunglasses, sweater, sweater vest, sweatpants, sweats, sweatshirt, swimsuit, t-shirt, teen, tights, toddler, tops, tween, undershirt, underwear, v-neck, vests, womens clothing, womens shoes, workout pants, yoga pants, zip up sweatshirt, oldnavy, jewelry, oldnavy"
+616,Old Time Photos,166,"prof, phoy, photob","custom, nostalgia, photo album, photo booth, photograph, souvenir, passport, military discount"
+12410,Onionhead's Revenge Haunted House,S200,,
+617,OPA! of Greece,28295,0,"Opa, Greek Salad, Gyro, Wraps, Shrimp, Calamari,  salads, French Fries, dessert, Souvlaki, Falafel, fast food, Mediterranean"
+618,Oppa Sweets,25515,"oop, cany","cotton candy, candy, ice cream, ice cre, ice crea, cotton"
+619,Original Popcorn House - Temporatialy Closed,25225,,
+621,Pac 1980,28557,"pcun, pax","pac, pacs, pacsu, pacsun"
+620,PacSun,156,"pax, pacsy, pacsub, pcs, pcun, brandy, pq, pacu, pacn, pqc, paa","bikini, bracelet, dress, handbag, hoodie, jeans, mens clothing, mens shoes, pants, scarf, shirt, shorts, skirt, sneakers, sporting, sunglasses, sweatpants, teen, tops, tween, womens clothing, womens shoes, pacsun, pac sun"
+622,Paddle North,16401,,
+624,Panda Express | 3rd North,451,"pn, fod, foodc, food cort","beef, chicken, food court, food specialty"
+623,Panda Express | 3rd South,158,"pn, pana, pnd, paa, pnda, pada, pda, pands, pans, pab, fod, pq","beef, chicken, food court, food specialty"
+625,Pandora Jewelry,159,"pn, pnd, pandi, pab, pandr, pano, paa, pndo, pandira, panf, pandoa, pans","beads, bracelet, charms, crystal, earring, jewelry, jewelry chain, pandora charms, personalized jewelry, platinum, sterling silver"
+626,Panera Bread,373,"pn, pana, panr, pae, panee, pnr, pq, paer, paera, pab, pne, sub, panra, pner, paa","breakfast, dinner, lunch, salad, sandwich, soup"
+627,Paper Source,370,"paer, papr, pae, typo, hall, hallmark, papers, stationary","paper,  stationary,  crafts,  crafting supplies,  custom,  quirky gifts,  custom stationary, Gift wrap, Wrapping, Wrap"
+628,Parkview Meeting Event Center,390,pak,"meeting,  meeting space,  parkview,  meeting rooms"
+629,Peloton,3166,,
+13086,Pepper Palace | 2nd East,34263,ppp,hot sauce
+630,Pepper Palace | 3rd North,19266,0,hot sauce
+632,Pepsi Orange Streak Photo,1871,0,"photograph, photo,  photography, photos, ride"
+633,Perfumania,162,"pf, prr, colo, purf, prf, parfu, pef, parf, colonge, perfy, colon, pee, cologne, perd, prfu, peu","beauty, designer, fragrance, perfume, military discount"
+634,Persepolis,317,0,0
+635,Piada Italian Street Food,333,"pid, pida, piat, pda, piaa, pada, piata, pis, fod, pii, paid, piw, paida, pasta","dinner, italian food, lunch, pasta, pizza, salad, military discount"
+638,Pink,32396,"pk, pik, pnk, pinj, pn, pijk",0
+13662,Pop Mart | Coming Soon,35881,0,popmart
+639,Popeyes Louisiana Kitchen,14026,"popr, poe, popo, poy, popy, popeys",0
+640,Poukei,7486,"pok, poke, poki",sushi tacos
+642,Prince Music Co.,27806,,
+643,Princess & Diva Kids Fun Spa,25055,"prn, pru",american girl
+644,Pro Image Sports,165,"mlb, dick, nfl, proi, srt, spos, twins, sprt, hats, hat, sprts, baseball, dicks, sort","baseball, basketball, collegiate, football, hockey, minnesota, minnesota viking, sporting, twins, vikings, NFL fan gear, soccer"
+645,Psycho Bunny,28463,"phy, phs, pys, spy",0
+646,Puff Sneaks | Kiosk,30154,0,0
+647,Puma Weavings,383,pua,"art, hobby"
+648,Purple Mattress,29229,,
+13182,Puzzles by James,35035,0,0
+649,Qdoba,335,qud,"burrito, nacho, taco"
+650,Radisson Blu Hotel,1716,"radd, radu, raa, ras, rdd, rads","rooms, restaurant, raddison, blu, hotel,  hotel, radison"
+651,Radisson Parking,2676,exit,"south parking ramp, south"
+652,Ragstock | 1st North,168,"raa, ragsti, ragg, forever, rgst","bracelet, casual dress, day dress, denim, dress, flannel, fleece jacket, hoodie, jacket, jean jacket, jeans, jewelry, military jacket, pants, retro, scarf, shirt, shorts, skinny jeans, skirt, sweater, sweatpants, sweatshirt, t-shirt, tops, vintage, zip up sweatshirt"
+653,Ragstock | 2nd South,453,"raa, rq, ragsti","bracelet, casual dress, day dress, denim, dress, flannel, fleece jacket, hoodie, jacket, jean jacket, jeans, jewelry, military jacket, pants, retro, scarf, shirt, shorts, skinny jeans, skirt, sweater, sweatpants, sweatshirt, t-shirt, tops, vintage, zip up sweatshirt"
+654,Rainbow,169,"raib, rau, raij, raim, forever, raa, ranb, rq, rab, rainbw, rinb, tj, ross, forever 21","boots, discount, dress, heels, hoodie, jeans, jewelry, pants, scarf, shirt, shorts, skirt, sweatshirt, teen, tween, womens clothing, womens shoes"
+655,Rainforest Cafe,170,"rau, raa, raun, raib, ranf, raij, rq, rinf, raif, raim, rainfi","beef, chicken, pasta, pizza, salad, seafood,  toys"
+13090,Reef Perfumes | Kiosk,33888,"ref, oud, arabian, arab, colo","luxury perfume, middle eastern fragrances, oud fragrance, musk scent, premium scents, artisanal fragrances, reef perfumes collection, exotic fragrance boutique, rare and exotic aromas, bespoke fragrance creations, signature oud essence, timeless luxury scents"
+656,Relaxing Massage,173,"mss, masa, mess, maa, messa, massae, msa, masss, maas, msage, mssa","healthcare, healthy, massage"
+12721,Rent The Runway,32624,"rtr, rnt, tj, disney, bn, dress, miniso","prom, designer, wedding, dress, gowns, handbags, earring, necklace, sustainability, sample sale, formal, cocktail dress, evening dress, dresses"
+657,Rhapsody Blue,30301,,
+658,Rick Bronson's House of Comedy,96,"hose, houe, hse","admission, comic, food specialty, stand-up comedy"
+659,Riddle's Jewelry,19156,"jewl, rdd","diamonds, jewelry, gemstone, engagement ring, rings, engagement, anniversary"
+660,Ridemakerz,28662,race,"toys, games, hobbies, kids,  gifts, birthday, fun, experience, cars, build"
+662,Rock Bottom Plunge Photo,29796,0,"photo, photos, photograph,  photography, ride"
+663,Rock of Ages Blacklight Minigolf,1636,"mim, mii, rok, gf, mini golf, mimi, mini g, putt, glow, rck, miji, gof","entertainment , golf, military discount"
+12816,Rocket Fizz,32695,"soda, rok, cany, rck","candy, soda, pop, retro, vintage,  gifts,  toys, americana, international, taffy"
+664,Rocky Mountain Chocolate Factory,174,"rok, rcky, rocy, fudge, chc","candy, chocolate, confection, dessert, food specialty, truffle"
+665,Rolex at Watches of Switzerland,29585,roe,"Rolex, rolex"
+13330,Roni's Mac Bar | Coming Soon,35845,0,"fast food, restaurant, gluten free, vegetarian, fast casual, mac and cheese, grilled cheese, build your own, kid friendly"
+666,Rowan,29812,"rowans, roa, rowe, rowen, rown, roan, rwan, roe","earring, ear piercing"
+12098,Royalty Apparel,27674,,
+667,Ruby Thai Kitchen,176,0,"beef, chicken, food court, food specialty"
+670,Safari Pride Coffee @ Community Commons,29174,,
+13291,SAGE & SPARK | Kiosk,35638,0,0
+12547,Samsung | Kiosk,,,
+13437,Samsung Experience Store | Coming Soon,35861,0,"samsung, experience, customer, service, store, care, Flip, Fold, Edge, Galaxy"
+672,Sbarro,178,"sab, sv, sub, sabb","cheese, fast food, food court, food specialty, pasta, pizza"
+673,SEA LIFE Minnesota Aquarium,179,"sears, aqy, seaw, sear, sae, acua, sea w, see, seal, acq","admission, aquarium, sea, sharks, tropical, water, sealife, military discount"
+12292,Self Serve Kiosk,145,"nico, roller, disney, nicko, rides","admission, kid, new ride, nicko, military discount"
+674,Sencha Tea Bar,208,,
+675,Sephora,182,"seh, sop, sap, sef, sepj, sephot, saph, seho, sephi, sepha, spho, sephors","beauty, fragrance, haircare, lip gloss, lotion, makeup, nail polish, perfume, skincare, fen, fent, fenty, fenty b, fenty be, fenty bea, fenty beaut, fenty beau, fenty beauty"
+12107,Shady Rays,26910,"trv, luggg, samsonite",0
+676,Shake Shack,348,"sg, shke, shaj, shaje, shae, shakr, sake, shs, shq, shh, sj","american, burger, cheeseburger, shake, military discount"
+678,Shiatsu Renu,10281,0,massage
+679,Shiatsu Renu | Kiosk,6626,0,massage
+680,Shoe Charm Planet | Kiosk,29420,0,0
+682,Shoe MGK | Kiosk,386,0,"beauty, fragrance, lip gloss, makeup, nail polish, skincare"
+681,Shoe MGK | Kiosk,24888,0,0
+13287,Shop CityPink | Kiosk,35613,"vict, victor, victoria, victo",0
+13850,Shop MOA Gifts,,,
+13849,Shop Nick U,,,
+13028,SITKA Gear,33754,"sik, sitj, sika, karl, sita, fish, karls, rei, fishing, outdoor","hunting, outdoor, hunting gear, clothing, fishing, equipment, adventure sports, gear, sitka, sitka gear"
+685,Skechers,184,"sck, sj, sch, sce, skt, sketchers, scet, skee, skk, sche, jc, skc, sketcher","american, baseball, bowling, college football, football, hockey, sporting, sports, mens shoes, womens shoes, kids shoes, tennis shoes, Sketchers, screechers"
+686,Sketching Memories | Kiosk,5536,0,0
+13258,SKIMS | Coming Soon,35531,0,0
+12416,Slice Brothers Pizza,C335,,
+13002,Soccer Jerseys | Kiosk,33633,"soce, scc, adidas, socer",0
+687,Socks & Bottoms,25797,0,underwear
+688,SoftMoc,1806,0,"vans, converse, skechers, birkenstock, adidas, clarks, ugg, dr martens, hunter, crocs, keds, puma, steve madden, toms, sorel, columbia, bogs, blundstone, birkenstock"
+689,Soma,189,soa,"boyshort, bra, camisole, lingerie, pajamas, panties, robe, sleepwear, underwear"
+13151,Southeast Court,5735,0,0
+692,Sox Appeal,190,"sock, sx, socks, sok","hosiery, slipper, socks"
+192,Spares @ Mall of America,,,
+693,Spencer's | 2nd North,14091,"spn, spencs, spencr, spenv, speb, spp, spens, specer, spw, snc, spencere, spem, spnc, spc","decor, games, graphic tee, poster, shirt, sweatshirt, teen, teen clothing, tops, wallet, military discount"
+694,Spencer's | 3rd North,191,"spn, spp, spenv, speb, spencs","decor, games, graphic tee, poster, shirt, sweatshirt, teen, teen clothing, tops, wallet, military discount"
+12294,Spirit Halloween,19381,"spirt, srit, spp, spii, sprit, spiriy, halo","costume, halloween, spooky, hiring, seasonal"
+12097,Squishable,31192,"sqi, sqy, miniso, disney, squisg, legacy, jelly","toy,  toys, plush, plushies, squishies, stuffed animal, stuffies, cute, fluffy, kids,  kids toys,  gifts, teen, teens"
+696,Stance,24927,0,socks
+13221,Star Express | MOA Train,35134,hide,"train, attraction"
+697,Star Glow Products,30243,,
+698,Starbucks @ Barnes & Noble,24604,stae,0
+699,Starbucks Coffee | 1st East,193,"stsr, stae, starbucj, sra, sar, stwr, stw, stab, starv, strb, stt, staru, sts, strbu, srar, starbucs","baked, beverage, breakfast, coffee, lunch, pastry, sandwich, smoothie, snack, tea"
+700,Starbucks Coffee | 2nd West,455,"starbucj, sar, stsr, stt, stae, sra, srar, strb, cofee, starbuv, stbu, starbucjs, stu, starby, strar, stw","baked, beverage, breakfast, coffee, lunch, pastry, sandwich, smoothie, snack, tea"
+701,Steve Madden,194,"sve, stv, sv, seve, stec, stve, stw, sev, stt, stee","ballet, boots, designer, dress shoes, flats, flip flops, heels, mens shoes, sandal, shoes, womens shoes"
+702,Street Corner News,195,"gas, hide","candy, magazine, newspaper, snack, conv, conve, conven, conveni, convenie, convenien, convenienc, convenience"
+703,Sugar Factory Express,10386,"suger, sg, suge, sugr, suar, cany, suf, sar","candy, date, bar, birthday"
+12848,Summer Games,2201,0,"stroller, lost and found, rentals, ECV, wheelchair, double stroller, coupon book, shopping bag, gift card, lockers, tickets, point passes, bundles, wristbands"
+707,Sunglass Hut | 1st North,459,sg,"designer, eyewear, glasses, summer, sunglasses, travel, vacation"
+706,Sunglass Hut | 2nd North,458,0,"designer, eyewear, glasses, summer, sunglasses, travel, vacation"
+705,Sunglass Hut | 2nd West,457,rayb,"designer, eyewear, glasses, summer, sunglasses, travel, vacation"
+704,Sunglass Hut | 3rd West,197,sg,"designer, eyewear, glasses, summer, sunglasses, travel, vacation"
+13281,Super Neon,35590,0,"super neon, neon light experience, light experience minneapolis, interactive experience, immersive experience"
+708,SUSANA MENDEZ Jewelry @ Community Commons,29179,,
+709,Swarovski,198,"sv, swo","bracelet, crystal, decor, jewelry"
+710,Swatch,199,"swatcg, swt, swath, swch, stch","jewelry, men&#039;s jewelry, watch, women, military discount"
+12723,Sweet Paris Crêperie and Café,31889,"swet, sww, seet, crap, pars, fren, crape, creper, set, cp, french, pais","creperie, restaurant, cafe,  breakfast, french restaurant, crepes, brunch, crepe"
+711,Sweet Puppies | Kiosk,29081,0,0
+712,Sweet Treats,1886,"dip, dipp","dip n&#039; dots, soda, water, pop, icee"
+715,Tactical Urban Combat,26374,0,"nerf, laser, lazer, lazer tag, laser tag, lasertag, lazertag, nerf gun, nerfgun"
+13176,Ta-Da Daa,34867,"ta da, ta d, popmart, popm, ta da daa, taa","gifts, pendant, collectibles, toy, mystery box, labubu, lucky emma, lulu pig, pop mart, blind box"
+13824,Ta-Da Daa Studio | Kiosk,36035,0,0
+12646,Tesla | Kiosk,32286,0,0
+717,The Body Shop,202,,
+718,The Children's Place,204,"chdre, childrn, chl, chd, chir, chile, childer, chdr, childe, chilr, chilf, cil, cld, chilre, childres, chik, chidr, thec, childn, chii","active wear, animal print, argyle, athletic shoes, baby, ballet, beanie, beret, blazer, boot cut, booties, boots, bowtie, boys, bracelet, button down, button front, cableknit, camisole, cardigan, cardigans, cargo, casual, casual dress, chino, clogs, coat, comfortable shoes, corduroy, denim, dress, dress shoes, dressy, duck boot, ear warmer, earring, flare, flats, fleece, fleece jacket, flip flops, floppy hat, girls, graphic tee, hair accessories, headband, hi top, hoodie, jacket, jean jacket, jeans, jegging, jelly shoe, kids shoes, knit, lace-up bootie, leggings, long sleeve, loungewear, necklace, newsboy, night gown, novelty, onesie, outerwear, outfit, overalls, oxfords, pajamas, pants, plaid, plus-size, plush, polo, puffer jacket, puffer vest, pullover, purse, robe, rompers, sandal, scarf, sequin, shirt, shoes, shorts, ski, skinny jeans, skirt, skort, sleeper, sleepwear, slipper, sneakers, snowpant, socks, stretch pant, stretchy, sunglasses, sweater, sweater vest, sweatpants, sweats, sweatshirt, t-shirt, tank top, tie, tights, toggle coat, tops, turtleneck, tutu, undershirt, underwear, uniform, v-neck, vests, windbreaker, windpant, woven, zip up sweatshirt"
+719,The Escape Game,417,"esx, eca, escae, escao, esape, esce, exs, esap, escpe, espe, escaoe, eeca, laser, escp, escapr, escape room, esd, escc",games
+720,The Escape Game | Kiosk,25139,,
+721,The Fair on 4,26990,"far, go k, go cart, gok, go kart, kart, go karts, axe, go ka, goc","go kart, axe, axe throw, pizza"
+13064,The Fan Stand | Vending Machine | 2nd South,33769,fn,0
+13235,The Fan Stand | Vending Machine | 3rd North,35106,"fn, topps","pokemon, one piece, football, baseball, soccer,  racing, basketball, collectables, trading cards, sports cards"
+722,The Inspiration Company,27881,0,"jewelry,  gifts"
+723,The LEGO Store,114,"lgo, legi, lef, legos, leh, legp, lago, leggo, lrg, lrgo, legg, leho","action figure, educational, kid, toy, legol, legoland"
+887,The Normal Brand,30932,0,"mens clothing, womens clothing, clothing, clothing store, clothes, shirt, shirts, clothing brands, flannel, flannel shirts, mens fashion, womens fashion, button down, button down shirts"
+725,The North Face,332,"norh, nortg, northf, noh, norty, nirth, nrth, northface, northfa, noryh","athletic shoes, camping, footwear, hiking, hiking boots, jacket, outdoor, northface, north face"
+12513,The Santa Experience,5526,0,"santa, photo, santaphoto, Larry, Black, Black Santa, Santa Larry, Santa Bob, Santa Sam, Santa Jon, Santa Claus, North pole"
+726,Therabody,27779,,
+727,Third Degree Heat,5541,"3rd, tg, tird, thid, thurd, thu, 3r, thrd, trd, thri, thd, thirr","3rd, 3, Supreme , Nike, Jordan, adidas, cookies, Off White, Yeezy, Sp5der, Bape, Gallery Dept, Chrome Hearts, Medicom, Bearbrick, Kaws, Fear of God, Antisocialsocialclub, Sprayground, Palm Angels, Reshoevn8er"
+13118,Tii Cup,19251,"jc, mcy, may, mq, mz, mact, sears, tj, mays, marsh, maa, max","mazy, mazys, a-line dress, a-line skirt, active wear, ankle pants, athletic shoes, baby clothes, barbeque, barware, beauty, bikini, blazer, blouse, blush, booties, boots, boxer brief, boxers, boys, bra, bracelet, bronzer, button down, cableknit, camisole, cardigan, cashmere, casual, casual dress, chandelier earring, clutch, coach, coat, cocktail dress, cold weather boots, cologne, comfortable shoes, cropped pant, crossbody bag, cutlery, day dress, decor, denim, designer, designer handbag, diamond earrings, dress, dress pants, dress shirt, dress shoes, dressy, drop earring, earring, evening dress, eye shadow, flats, fleece, formal, foundation, fragrance, glassware, handbag, heels, homecoming, hosiery, jacket, jeans, jewelry, kids shoes, leather shoes, lingerie, loafers, lotion, makeup, mascara, michael kors, pajamas, pants, watches, tag heuer, longines, gshock, rolex, backstage, ralph lauren, polo, ralph, versace, mattress, furniture, Armani Exchange, Sorel, The North Face, Timberland, Chanel, Flower Bomb, Marmot, Effy, LeVian, Swarovski, UGG, Levi&#039;s, Champion"
+728,Tilly's,246,"tily, tll, tly, tillu, tilli, tillyd, tills, tiil","anorak, backpack, bags, bandanas, bandeau top, beanie, bikini, billabong, blanket sweater, blouse, board shorts, bomber jacket, boot cut, boots, boxer brief, boxers, bracelet, capris, cardigan, cardigans, casual, casual dress, cologne, comfortable shoes, converse, coveralls, crew neck, cropped pant, dc shoes, denim, dress, faux leather, flannel, flare, flip flops, floppy hat, fox racing, goggle, graphic tee, headphone, high waist, hood, hoodie, hurley, jacket, jean jacket, jeans, jegging, jewelry, key chain, knit, levi&#039;s, long sleeve, men&#039;s jewelry, mens boots, mens shoes, moto jacket, necklace, nike, o&#039;neill, overalls, pants, pullover, quicksilver, racerback, raglan, reef, relaxed fit, retro, rip curl, rompers, rvca, sandal, shirt, shoes, short sleeve, shorts, skate, skateboard, skinny jeans, skirt, slim cut, slipper, snapback, sneakers, snowboard, socks, speaker, sports bra, straight fit, strapback, sunglasses, supra, surfing, sweater, sweater vest, sweatpants, sweatshirt, swimsuit, swimwear, tank top, tankini, tops, trucker hat, tunic, vans, volcom, wallet, watch, wrap sweater, zip up sweatshirt, converse shoes, adidas, converse, huf, hydro flask"
+729,Timberland,1836,"tmb, timbr, tims, timbrr, tib","timber, boots, shoe, waterproof"
+714,T-Mobile,460,"veri, tmb, t mobile, team, at&t, verizon, tob, t&, t mob, t mb, best, tmi, tmm, veriz, at&, tmon","alcatel, apple, battery, blackberry, bluetooth, cable, cell phones, charger, dock, electronics, headphone, htc, iphone, lg, memory card, mytouch, nexus, nokia, onetouch, phone, phone case, rocket, samsung, sim, sony, speaker, tablet, usb, wifi, tmobile, t mobile, t-mobile, military discount"
+730,Tommy Bahama,213,"tmm, tmy, tomy, swim, tmmy, everything but water, every","beach towel, blazer, board shorts, boat shoes, boxer brief, boxers, bracelet, briefcase, button down, button front, cableknit, camp shirt, canvas bag, cap, cardigan, cargo, cashmere, chambray, chino, cigarware, classic, colorblock, corduroy, crew neck, cuff link, decor, denim, dress, driver cap, duckbill, duffle bag, earring, fedora, flask, floral, graphic tee, hawaiian, henley, herringbone, iphone case, island, jacket, jeans, khakis, knit, leather, leather jacket, leather shoes, lighter, linen, long sleeve, loungewear, mens boots, mens clothing, mens shoes, moto jacket, necklace, oxfords, pajamas, pants, phone case, plaid, polo, puffer vest, pullover, raglan, relaxed fit, rings, sandal, scarf, shirt, short sleeve, shorts, silk shirt, skirt, slip on shoes, socks, straight fit, sunglasses, sweatpants, sweatshirt, swim trunks, swimsuit, swimwear, t-shirt, tie, tops, travel, twill, v-neck, vacation, valet box, vintage, wallet, watch, windbreaker"
+731,Tomodachi,304,,
+734,Torrid,215,"trr, mau, maurices, maur, torid","a-line dress, a-line skirt, animal print, bangle, blazer, blouse, boots, bra, bracelet, camisole, cardigan, cardigans, casual, casual dress, cocktail dress, cuff, day dress, denim, dress, dressy, earring, faux fur, faux leather, graphic tee, hair accessories, heels, hoodie, jacket, jeans, leggings, midi skirt, military jacket, mini skirt, moto jacket, necklace, panties, pants, party dress, peacoat, pencil skirt, peplum, plus-size, sandal, shirt, shorts, skinny jeans, skirt, stud earrings, sundress, sweater, sweatshirt, t-shirt, tank top, tee, tops, tunic, underwear, vests, watch, wedge boots, wedges, zip up sweatshirt"
+494,Touch Repair | Kiosk,442,0,0
+735,Toy Store,238,"disney, legacy, legac, disn, kappa, kapp, lega, pop mart","action figure, boys, girls, kid, plush, toy, ticket, tickets, retail"
+13149,Toys,34850,"miniso, legacy, kappa, toyd, kapp, popmart, disney, tous",0
+736,Toys and Games @ Barnes & Noble,19166,0,"puzzles, board games, educational games"
+12524,Toys for Tots Donation Center,CS7102,,
+12511,"Toys""R""Us",31938,"tys, toyr, toyd, disney, disn, toy r, toys are","toys, games,  gifts, puzzles, kids, children, plush, family friendly, entertainment, toy store"
+738,Tradehome Shoes,29512,"trd, tde, tade, trae, sg, softmoc, trde","On brand shoes, On shoes, On, Hoka, hoka shoes, Shoes"
+739,Transit Center,2776,"train, metro, trai, trn, metr, rail, trs, trin, light rail, tras, trab, lih","metr, metro, train, bus, blue line, green line, light rail, lightrail, trai, mystic lake shuttle bus, mystic lake, buses, rail, metro transit, public transportation, city buses, red line"
+740,Travel Style Luggage,26910,"trv, luggg, samsonite",0
+741,TravisMathew,29845,"trv, tv, gof, travu","golf, athleisure, cotton, untuckit, Athletic Wear, Athleticwear, comfort, polo, stretch, stretchy, performance, fun, hats, Southern California, California, south"
+12862,Treats Cereal Bar + Boba,32894,0,"ice cream, boba, drinks, dessert, bubble tea, tea, sweet, treats, smoothies, cereal"
+12828,Trendica,32963,0,0
+13328,Trendy Candles | Kiosk,35830,0,"fragrance, trendy candles, dessert candles, oil diffuser, humidifier, handmade candle"
+12103,Trendy Collections | Kiosk,31419,0,"charms, charm planet, trendy collections"
+12860,True Classic,33046,"tue, try","tees, t-shirts, jeans, polos, activewear, active tees"
+742,Tumi,218,tmi,"business casual, handbag, leather, luggage, purse, travel"
+13663,Twin Cities Fear Fest,35908,"fright, frigh, far, scare, fewr","halloween, Haunted House, haunt, entertainment, horror, seasonal"
+743,Twin City Grill,219,"twn, tn, twu, tww, haz, grl, twib, tin city, tiw, tin c","american, appetizers, beef, beer, beverage, burger, casual, chicken, cocktail, fish, food specialty, foodie, gourmet, minnesota, pasta, salad, sandwich, seafood, steak, steakhouse"
+744,Typo,248,,
+724,UBetcha!,28542,"yu, u b","minnesota gift, souvenir, sweatshirt, minnesota sweatshirt, women&#039;s apparel, men&#039;s apparel, minnesota hat, cards, local business, home"
+745,UGG,278,"uggs, uggg","boots, comfortable shoes, mens boots, mens shoes, shoes, women, womens boots, womens shoes"
+746,Ulta Beauty,1166,"uly, ultr, ults, ultra, ultw, ulya, ukt, ulr, ukta, ultq, miniso, hair, ulat","beauty, makeup"
+747,Under Armour,311,"unr, uner, undr, uder, unf, undee, undera","active wear, athletic shoes, baseball, basketball, basketball shoe, board shorts, children, college football, football, footwear, golf, mens clothing, mens shoes, polo, shirt, short sleeve, shorts, socks, sports, sports bra, sweatshirt, t-shirt, under armour, undershirt, underwear, women, womens clothing, womens shoes, workout, workout pants, yoga, yoga pants, NFL fan gear, military discount, Shoes, sports and fitness"
+749,Unique,24531,0,0
+750,United People Apparel,27674,,
+752,UNTUCKit,1361,unu,"untuck, untuckit, shirts, mens shirts, military discount, Shirts, wrinkle free, big and tall, collar shirts, button down collar, cotton, silk, chris riccobono"
+753,UpWest,29125,,
+754,Urban 29,27134,,
+755,Urban Outfitters,220,"urbn, urv, uan, urbab, uban, urbsn, free, urbq, free people, urbam","art, blanket, blouse, books, camera, cd, coaster, coat, designer, dress shirt, dress shoes, earring, fitted hat, flats, fleece jacket, floppy hat, frame, furniture, glasses, glassware, hoodie, jacket, jean jacket, jeans, jewelry, leather shoes, leggings, levi&#039;s, lingerie, mens clothing, mens shoes, military hat, military jacket, moto jacket, music, necklace, pants, photograph, record player, shirt, shorts, skirt, socks, sunglasses, sweater, sweater vest, sweatpants, sweats, sweatshirt, t-shirt, tights, tops, trendy, trucker hat, undershirt, underwear, vinyl, womens clothing, womens shoes, zip up sweatshirt"
+756,Urban Planet,26853,"urbn, uban, urv, uan, urbsn, ubr, urbab, urbz, urbq, forever, urbam, forev, urben",charlotte
+758,Valet,24161,0,0
+760,Vans,222,"vn, vns, vab, vq, vz, vand, vabs","athletic shoes, bike, bmx, casual, comfortable shoes, hoodie, leather shoes, mens shoes, shirt, shoes, skate, skateboard, ski, sneakers, snowboard, sporting, sports, surfing, sweatshirt, skate shoes, kids, slip-ons, high-tops classic, authentic, clothing"
+13945,Vatican Unveiled | Coming Soon,36133,0,0
+761,Vera Bradley,223,"vr, vra","backpack, bags, canvas bag, clutch, crossbody bag, designer handbag, diaper bag, duffle bag, handbag, iphone, luggage, pens, purse, shoulder bag, travel, wallet, wristlet"
+12536,Veronica's Jewelry,W387,,
+763,Victoria's Secret,461,"vt, victi, vct, vc, vuc, vico, vito, vif, vii, vicy, victoi, vto, vicr","boots, comfortable shoes, mens boots, mens shoes, shoes, women, womens boots, womens shoes"
+764,Victoria's Secret | 1st North,224,"pink, vc, vct, vt, vv, victi, vicy, vif, vio, miniso, vico, vo, vito, vuc, pn, vicr, ivi, adidas, swim, pk","active wear, backless bra, bags, body lotions, body wash, bodycare, bra, camisole, fragrance, hoodie, hosiery, lingerie, lip gloss, lotion, loungewear, makeup, pajamas, perfume, skincare, sleepwear, sports bra, strapless bra, sweatpants, sweats, sweatshirt, tote, underwear, womens clothing, yoga, yoga pants, zip up sweatshirt"
+13329,Victorine Skin Care,35842,0,0
+765,"Vikings Locker Room, a Fanatics Experience",225,"vk, nfl, vikgs, vii, vikg, vick, vikn, vki, mlb, vikingd, vikk, vikis, viin, vikng, team","football, hoodie, jersey, minnesota, minnesota viking, nfl, sports, sweatpants, sweatshirt, vikings, NFL fan gear"
+12101,Vitali's Kitchen,27505,,
+9260,Vuori,30790,"vio, vou, vo, vur, vouri, viu, vui, vuoi, free, vour, viori, vuri",0
+766,Wafels & Dinges,26139,,
+767,Wahlburgers,19216,"wha, wall, walh, whl, ww, whal, walb, wg, wag, wahk","burger, salad, american, walb, wallburgers, wall, wahll, walburger, walberger, wallberger, wahllburger"
+768,Walgreens,16291,"wall, cvs, ww, wag, gas, wak, wlg, target, targ, wq, walr, wll","drugstore, convenience, passport, photos, makeup, cvs, drug, stamp, postage, conven, conveni, convenie, convenien, convenienc, conv, Wallgreens, pharmacy"
+769,Warby Parker,27780,"wab, wby, waby, wr, wrb, wrby, wae","glasses, eye exams, optometrist, sunglasses, contacts, frames, kids glasses, pediatric eye exams, eye doctor, readers, clip ons"
+770,Watches of Switzerland,28331,"watcg, wac, wates, wach, wch, wt","watch, watches"
+12280,waterdrop®,30904,"everything, swim",0
+13158,Watson,31371,0,0
+771,Wax Hands,29215,0,0
+13105,Wellness at Mall of America®,35461,0,0
+12537,West Guest Services,,,
+13198,West Market Circle,34982,0,0
+12282,West Market Square,1741,0,0
+13667,Wetzel's Pretzels | 1st North,16761,prez,pretzel
+779,Wetzel's Pretzels | Kiosk,362,"wez, prez, wt, wr, prt, wre","pretzel, pretzel dog, snack"
+780,White Barn Candle,353,cande,candle
+781,White House | Black Market,227,"whie, wg, whb, whbm, wte, wite, bana, chico, banana, ww, banana republic","a-line dress, a-line skirt, animal print, ankle pants, blazer, blouse, bracelet, button down, button front, cardigan, casual, casual dress, cocktail dress, day dress, dress, dress pant, dress pants, dress shirt, dress shoes, earring, formal, heels, jacket, jewelry, knit, necklace, pants, party dress, pencil skirt, petite, rings, scarf, shirt, shorts, skirt, sweater, tops, women, womens clothing, womens shoes, work dress, work shoes"
+12512,Wilson,32016,iw,"sportswear, tennis, sporting goods, football, basketball, sports, pickleball"
+782,Windsor,13516,"wu, wid, wd, wins, wnd, iw, wib, wn, windor, windo","prom, cocktail dress, formal, evening dress"
+12508,Wink World,N380,,
+783,Wisdom Gaming Studios,28839,,
+784,WonderPAX | Kiosk,27724,,
+785,WonderPAX | Kiosk,28784,,
+787,Worker B,395,,
+788,Xscape Arcade,1386,"xca, arce, arcae, arch, exs, acade, xg, arcadw",0
+790,Xscape Entertainment Center,28415,0,arcade
+789,Xscape Entertainment Center,1366,0,arcade
+791,Yankee Candle Co.,228,"ynk, yanj, yak","air freshener, anniversary gift, candle, car fresheners, decor, fragrance oil, potpourri, reed diffuser,  military discount"
+376,z - Code White Teeth Whitening (CLOSED),30010,,
+762,z - Verizon Destination Store (CLOSED),294,,
+792,ZAGG | Kiosk,255,,
+793,Zales,229,"zas, zae","anniversary gift, birthday gift, birthstone, bracelet, chandelier earring, diamond earrings, diamonds, drop earring, earring, engagement ring, gold, jewelry, necklace, pendant, personalized jewelry, rhinestone, rings, sterling silver, stud earrings, studs, watch, wedding"
+794,Zara,19296,"zae, zaa, zra, zr, zarz, zaea, zarw, zars, sara, zq",0
+795,Zumiez,230,"zoo, zumies, zumm, zoom, zm, zun, zom, zui, zuj, zumiz, zume, zumis, zoomi, zuk, zoomie, miniso, xz, zumir","athletic shoes, backpack, bikini, board shorts, boys, dc shoes, denim, fleece, fleece jacket, goggle, graphic tee, hoodie, jeans, long board, long sleeve, mens clothing, mens shoes, Thrasher, Huf, Spitfire, snow boards, Champion, tween, Obey"
+802,Zwilling,30644,0,"kitchen, knives"
