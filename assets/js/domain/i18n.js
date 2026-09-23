@@ -94,7 +94,7 @@
       "hero.badge": "Built for personal trainers",
       "hero.title": "The app for<br><span class=\"gradient\">personal trainers.</span>",
       "hero.sub": "Set training and nutrition plans for your clients, manage every program, and track every rep — built for personal trainers, not for people training themselves.",
-      "hero.emailCta": "WhatsApp",
+      "hero.emailCta": "Chat on WhatsApp",
       "hero.emailNote": "Tell us about your personal training business on WhatsApp and we'll help you get set up. We reply within 24 hours.",
       "hero.orDownload": "Or download the app",
       "hero.statExercises": "Exercises",
@@ -138,6 +138,7 @@
       "pricing.email": "WhatsApp to get started",
       "pricing.download": "Download the app",
       "pricing.note": "Questions about pricing or onboarding? Message us on",
+      "pricing.whatsappHref": "https://wa.me/34652624425?text=Hello%2C%20I%27m%20interested%20in%20Growth%20Premium",
 
       "how.label": "How it works",
       "how.title": "Up and running in 3 steps",
@@ -170,8 +171,8 @@
 
       "cta.title": "Ready to grow as a personal trainer?",
       "cta.desc": "Join personal trainers who use Growth Trainer to deliver better programs and track real client results.",
-      "cta.email": "WhatsApp",
-      "cta.whatsappHref": "https://wa.me/34652624425?text=Hello%2C%20I'm%20interested%20in%20Growth%20Trainer",
+      "cta.email": "Chat on WhatsApp",
+      "cta.whatsappHref": "https://wa.me/34652624425?text=Hello%2C%20I%27m%20interested%20in%20Growth%20Trainer",
 
       "footer.desc": "The all-in-one app for personal trainers. Set training and nutrition plans, manage clients, and track progress.",
       "footer.legal": "Legal",
@@ -206,7 +207,7 @@
       "hero.badge": "Hecha para entrenadores personales",
       "hero.title": "La app para<br><span class=\"gradient\">entrenadores personales.</span>",
       "hero.sub": "Asigna planes de entrenamiento y nutrición a tus clientes, gestiona cada programa y sigue cada repetición — hecha para entrenadores personales, no para quien entrena por su cuenta.",
-      "hero.emailCta": "WhatsApp",
+      "hero.emailCta": "Escríbenos por WhatsApp",
       "hero.emailNote": "Cuéntanos sobre tu negocio de entrenamiento personal por WhatsApp y te ayudamos a empezar. Respondemos en menos de 24 horas.",
       "hero.orDownload": "O descarga la app",
       "hero.statExercises": "Ejercicios",
@@ -250,6 +251,7 @@
       "pricing.email": "WhatsApp para empezar",
       "pricing.download": "Descargar la app",
       "pricing.note": "¿Dudas sobre precios o onboarding? Escríbenos por",
+      "pricing.whatsappHref": "https://wa.me/34652624425?text=Hola%2C%20me%20interesa%20Growth%20Premium",
 
       "how.label": "Cómo funciona",
       "how.title": "Listo en 3 pasos",
@@ -282,7 +284,7 @@
 
       "cta.title": "¿Listo para crecer como entrenador personal?",
       "cta.desc": "Únete a entrenadores personales que usan Growth Trainer para ofrecer mejores programas y resultados reales con sus clientes.",
-      "cta.email": "WhatsApp",
+      "cta.email": "Escríbenos por WhatsApp",
       "cta.whatsappHref": "https://wa.me/34652624425?text=Hola%2C%20me%20interesa%20Growth%20Trainer",
 
       "footer.desc": "La app todo-en-uno para entrenadores personales. Asigna planes de entrenamiento y nutrición, gestiona clientes y sigue su progreso.",
