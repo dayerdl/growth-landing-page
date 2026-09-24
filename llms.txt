@@ -25,8 +25,13 @@ Growth Trainer (https://growthtrainer.fit) is a mobile app built for personal tr
 - Personalized training plans per client
 - Personalized nutrition plans per client
 - Progress tracking: calendar, graphs, PRs, sleep, muscle usage analytics
+- Client community: group clients into a club with monthly and yearly rankings
 - Unlimited clients on Growth Premium
 - Available on iOS and Android
+
+## Main differentiator
+
+Growth Trainer is not just a program builder. It creates a community around the trainer: clients belong to a club with its own leaderboard, monthly and yearly rankings track records, and a winner is crowned each month. That friendly competition is what keeps clients consistent and retained, and it is the main difference versus other personal training apps.
 
 ## Platforms
 
@@ -50,6 +55,7 @@ Personal trainers who train clients 1:1 or in small groups and need one app to d
 - Does it include nutrition? Yes — trainers can assign nutrition plans alongside workout plans.
 - How much does it cost? Free to download; Growth Premium is $59/mo (EN) or €49/mo (ES) with unlimited clients.
 - Which platforms? iOS and Android.
+- How does it keep clients motivated? Clients join a club with monthly and yearly rankings, so training becomes friendly competition.
 
 ## Site map for agents
 

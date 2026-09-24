@@ -124,6 +124,14 @@
       "showcase.li3": "Progressive overload tracking with automatic record detection",
       "showcase.li4": "Detailed exercise videos focused on proper form and biomechanics",
 
+      "community.label": "What sets us apart",
+      "community.title": "Build a community and keep them motivated",
+      "community.desc": "Other apps stop at the workout. Growth Trainer turns your clients into a club with its own ranking, so training becomes friendly competition and everyone keeps showing up.",
+      "community.li1": "Group your clients into a club with its own leaderboard",
+      "community.li2": "Monthly and yearly rankings crown a winner every month",
+      "community.li3": "Records and podium places turn training into friendly competition",
+      "community.li4": "Motivated clients stay consistent — and stay with you longer",
+
       "pricing.label": "Pricing",
       "pricing.title": "One plan. Unlimited clients.",
       "pricing.desc": "Everything you need to run your personal training business — no tiers, no limits on clients.",
@@ -164,6 +172,8 @@
       "faq.q5": "How much does Growth Trainer cost?",
       "faq.q6": "What platforms is Growth Trainer available on?",
       "faq.a6": "Growth Trainer is available on both iOS (App Store) and Android (Google Play). Download links are available at the top and bottom of this page.",
+      "faq.q7": "How does Growth Trainer keep clients motivated?",
+      "faq.a7": "Growth Trainer groups your clients into a club with its own ranking. Monthly and yearly leaderboards track records and crown a winner each month, so training becomes friendly competition. That community is what sets Growth Trainer apart from other personal training apps.",
 
       "contact.label": "Contact",
       "contact.title": "Let's talk about your personal training business",
@@ -237,6 +247,14 @@
       "showcase.li3": "Seguimiento de sobrecarga progresiva con detección automática de récords",
       "showcase.li4": "Vídeos de ejercicios centrados en la técnica y la biomecánica",
 
+      "community.label": "La diferencia",
+      "community.title": "Crea comunidad y mantenlos motivados",
+      "community.desc": "Otras apps se quedan en el entrenamiento. Growth Trainer convierte a tus clientes en un club con su propio ranking: el entrenamiento se vuelve competición sana y todos siguen apareciendo.",
+      "community.li1": "Agrupa a tus clientes en un club con su propia clasificación",
+      "community.li2": "Rankings mensuales y anuales con un ganador cada mes",
+      "community.li3": "Los récords y el podio convierten el entrenamiento en competición sana",
+      "community.li4": "Un cliente motivado es constante — y se queda contigo más tiempo",
+
       "pricing.label": "Precios",
       "pricing.title": "Un solo plan. Clientes ilimitados.",
       "pricing.desc": "Todo lo que necesitas para tu negocio de entrenamiento personal — sin niveles ni límites de clientes.",
@@ -277,6 +295,8 @@
       "faq.q5": "¿Cuánto cuesta Growth Trainer?",
       "faq.q6": "¿En qué plataformas está disponible?",
       "faq.a6": "Growth Trainer está disponible en iOS (App Store) y Android (Google Play). Los enlaces de descarga están arriba y abajo en esta página.",
+      "faq.q7": "¿Cómo mantiene Growth Trainer motivados a los clientes?",
+      "faq.a7": "Growth Trainer agrupa a tus clientes en un club con su propio ranking. Las clasificaciones mensuales y anuales registran los récords y coronan a un ganador cada mes, así el entrenamiento se convierte en competición sana. Esa comunidad es lo que diferencia a Growth Trainer de otras apps para entrenadores personales.",
 
       "contact.label": "Contacto",
       "contact.title": "Hablemos de tu negocio de entrenamiento personal",
@@ -392,7 +412,8 @@
       { q: t(lang, "faq.q3"), a: t(lang, "faq.a3") },
       { q: t(lang, "faq.q4"), a: t(lang, "faq.a4") },
       { q: t(lang, "faq.q5"), a: pricing.faqCost },
-      { q: t(lang, "faq.q6"), a: t(lang, "faq.a6") }
+      { q: t(lang, "faq.q6"), a: t(lang, "faq.a6") },
+      { q: t(lang, "faq.q7"), a: t(lang, "faq.a7") }
     ];
   }
 
