@@ -4,7 +4,7 @@
 
 ## Product summary
 
-Growth Trainer (https://growthtrainer.fit) is a mobile app built for personal trainers. Trainers can create personalized workout programs from a library of 500+ exercises (with GIF animations and video demos), assign nutrition plans, manage clients, and monitor progress with analytics. It is not a consumer workout tracker.
+Growth Trainer (https://growthtrainer.fit) is a mobile app built for personal trainers. Trainers can create personalized workout programs from a library of 4,000+ exercises (with GIF animations and video demos), assign nutrition plans, manage clients, and monitor progress with analytics. It is not a consumer workout tracker.
 
 ## Languages
 
@@ -20,7 +20,7 @@ Growth Trainer (https://growthtrainer.fit) is a mobile app built for personal tr
 
 ## Key features
 
-- 500+ exercise library with biomechanics-focused video demos
+- 4,000+ exercise library with biomechanics-focused video demos
 - Muscle group targeting for program design
 - Personalized training plans per client
 - Personalized nutrition plans per client

@@ -77,7 +77,7 @@
   var TRANSLATIONS = {
     en: {
       "meta.title": "Growth Trainer — The App for Personal Trainers",
-      "meta.description": "Growth Trainer is the all-in-one app for personal trainers. Set custom training and nutrition plans for your clients, manage them in one place, track progress with 500+ exercises, and grow your personal training business.",
+      "meta.description": "Growth Trainer is the all-in-one app for personal trainers. Set custom training and nutrition plans for your clients, manage them in one place, track progress with 4,000+ exercises, and grow your personal training business.",
       "meta.ogDescription": "Set custom training and nutrition plans for your clients, manage them, and track progress — all in one app built for personal trainers.",
       "meta.keywords": "personal trainer app, personal training software, workout plan builder for trainers, nutrition plan builder, client management for personal trainers",
 
@@ -97,6 +97,7 @@
       "hero.emailCta": "Chat on WhatsApp",
       "hero.emailNote": "Tell us about your personal training business on WhatsApp and we'll help you get set up. We reply within 24 hours.",
       "hero.orDownload": "Or download the app",
+      "hero.statCount": "4,000+",
       "hero.statExercises": "Exercises",
       "hero.statPlatforms": "Platforms",
       "hero.statClients": "Unlimited clients",
@@ -107,7 +108,7 @@
       "features.label": "Features",
       "features.title": "Everything a personal trainer needs",
       "features.desc": "From training and nutrition plans to progress analytics — Growth Trainer gives personal trainers the tools to run complete programs for every client.",
-      "features.f1.title": "500+ exercise library",
+      "features.f1.title": "4,000+ exercise library",
       "features.f1.desc": "Every exercise includes GIF animations and detailed video demos. We obsess over biomechanics so your clients move safely and effectively.",
       "features.f2.title": "Muscle group targeting",
       "features.f2.desc": "Build programs by selecting specific muscle groups. Create split routines, full-body sessions, or targeted rehab plans in minutes.",
@@ -138,7 +139,7 @@
       "pricing.badge": "Growth Premium",
       "pricing.tagline": "Unlimited clients included",
       "pricing.f1": "Training & nutrition plans for every client",
-      "pricing.f2": "500+ exercises with video demos",
+      "pricing.f2": "4,000+ exercises with video demos",
       "pricing.f3": "Custom workout programs for every client",
       "pricing.f4": "Progress tracking & advanced analytics",
       "pricing.f5": "Exclusive programs & trainer tools",
@@ -154,7 +155,7 @@
       "how.s1.title": "Download & sign up",
       "how.s1.desc": "Get Growth Trainer free on iOS or Android. Create your trainer account in seconds.",
       "how.s2.title": "Set training & nutrition",
-      "how.s2.desc": "Assign personalized workout and nutrition plans to each client. Pick from 500+ exercises and tailor diet guidance to their goals.",
+      "how.s2.desc": "Assign personalized workout and nutrition plans to each client. Pick from 4,000+ exercises and tailor diet guidance to their goals.",
       "how.s3.title": "Track & grow",
       "how.s3.desc": "Monitor client progress with analytics, celebrate PRs, and scale your personal training business with confidence.",
 
@@ -166,7 +167,7 @@
       "faq.q2": "Who is Growth Trainer for?",
       "faq.a2": "Growth Trainer is built for personal trainers. If you train clients 1:1 or in small groups, you can assign programs, manage nutrition, and track progress from one app. It is not a consumer workout tracker.",
       "faq.q3": "How many exercises does Growth Trainer include?",
-      "faq.a3": "Growth Trainer includes a library of over 500 exercises, each with GIF animations and detailed video demonstrations focused on proper biomechanics.",
+      "faq.a3": "Growth Trainer includes a library of over 4,000 exercises, each with GIF animations and detailed video demonstrations focused on proper biomechanics.",
       "faq.q4": "Can I set nutrition and training plans for my clients?",
       "faq.a4": "Yes. Growth Trainer lets you assign personalized training and nutrition plans to each client, so you can manage their workouts and diet guidance from a single app.",
       "faq.q5": "How much does Growth Trainer cost?",
@@ -194,13 +195,13 @@
       "footer.tagline": "Made for personal trainers who care about results.",
 
       "schema.orgDesc": "Growth Trainer is the all-in-one mobile app for personal trainers to set training and nutrition plans, manage clients, and track fitness progress.",
-      "schema.appDesc": "The all-in-one app for personal trainers. Set custom training and nutrition plans, create workout programs with 500+ exercises, manage clients, and track progress with advanced analytics.",
+      "schema.appDesc": "The all-in-one app for personal trainers. Set custom training and nutrition plans, create workout programs with 4,000+ exercises, manage clients, and track progress with advanced analytics.",
       "schema.offerDesc": "Growth Premium — unlimited clients, all features included"
     },
 
     es: {
       "meta.title": "Growth Trainer — La app para entrenadores personales",
-      "meta.description": "Growth Trainer es la app todo-en-uno para entrenadores personales. Asigna planes de entrenamiento y nutrición a tus clientes, gestiona su progreso con más de 500 ejercicios y haz crecer tu negocio de entrenamiento personal.",
+      "meta.description": "Growth Trainer es la app todo-en-uno para entrenadores personales. Asigna planes de entrenamiento y nutrición a tus clientes, gestiona su progreso con más de 4.000 ejercicios y haz crecer tu negocio de entrenamiento personal.",
       "meta.ogDescription": "Asigna planes de entrenamiento y nutrición a tus clientes, gestiona su progreso y haz seguimiento — todo en una app hecha para entrenadores personales.",
       "meta.keywords": "app entrenador personal, software de entrenamiento personal, creador de planes de entrenamiento, planes de nutrición, gestión de clientes para entrenadores personales",
 
@@ -220,6 +221,7 @@
       "hero.emailCta": "Escríbenos por WhatsApp",
       "hero.emailNote": "Cuéntanos sobre tu negocio de entrenamiento personal por WhatsApp y te ayudamos a empezar. Respondemos en menos de 24 horas.",
       "hero.orDownload": "O descarga la app",
+      "hero.statCount": "4.000+",
       "hero.statExercises": "Ejercicios",
       "hero.statPlatforms": "Plataformas",
       "hero.statClients": "Clientes ilimitados",
@@ -230,7 +232,7 @@
       "features.label": "Funciones",
       "features.title": "Todo lo que un entrenador personal necesita",
       "features.desc": "Desde planes de entrenamiento y nutrición hasta analíticas de progreso — Growth Trainer da a los entrenadores personales las herramientas para dirigir programas completos con cada cliente.",
-      "features.f1.title": "Biblioteca de +500 ejercicios",
+      "features.f1.title": "Biblioteca de +4.000 ejercicios",
       "features.f1.desc": "Cada ejercicio incluye animaciones GIF y demos en vídeo. Nos obsesionamos con la biomecánica para que tus clientes se muevan con seguridad y eficacia.",
       "features.f2.title": "Selección por grupo muscular",
       "features.f2.desc": "Crea programas eligiendo grupos musculares concretos. Rutinas split, full-body o planes de rehabilitación en minutos.",
@@ -261,7 +263,7 @@
       "pricing.badge": "Growth Premium",
       "pricing.tagline": "Clientes ilimitados incluidos",
       "pricing.f1": "Planes de entrenamiento y nutrición para cada cliente",
-      "pricing.f2": "+500 ejercicios con demos en vídeo",
+      "pricing.f2": "+4.000 ejercicios con demos en vídeo",
       "pricing.f3": "Programas de entrenamiento personalizados",
       "pricing.f4": "Seguimiento y analíticas avanzadas",
       "pricing.f5": "Programas exclusivos y herramientas para entrenadores",
@@ -277,7 +279,7 @@
       "how.s1.title": "Descarga y regístrate",
       "how.s1.desc": "Consigue Growth Trainer gratis en iOS o Android. Crea tu cuenta de entrenador en segundos.",
       "how.s2.title": "Asigna entrenamiento y nutrición",
-      "how.s2.desc": "Asigna planes personalizados a cada cliente. Elige entre +500 ejercicios y adapta la nutrición a sus objetivos.",
+      "how.s2.desc": "Asigna planes personalizados a cada cliente. Elige entre +4.000 ejercicios y adapta la nutrición a sus objetivos.",
       "how.s3.title": "Sigue y crece",
       "how.s3.desc": "Monitoriza el progreso con analíticas, celebra PRs y escala tu negocio de entrenamiento personal con confianza.",
 
@@ -289,7 +291,7 @@
       "faq.q2": "¿Para quién es Growth Trainer?",
       "faq.a2": "Growth Trainer está hecha para entrenadores personales. Si entrenas clientes 1:1 o en grupos pequeños, puedes asignar programas, gestionar la nutrición y seguir el progreso desde una sola app. No es un tracker de entrenamiento para el usuario final.",
       "faq.q3": "¿Cuántos ejercicios incluye Growth Trainer?",
-      "faq.a3": "Growth Trainer incluye una biblioteca de más de 500 ejercicios, cada uno con animaciones GIF y demos en vídeo centradas en la biomecánica correcta.",
+      "faq.a3": "Growth Trainer incluye una biblioteca de más de 4.000 ejercicios, cada uno con animaciones GIF y demos en vídeo centradas en la biomecánica correcta.",
       "faq.q4": "¿Puedo asignar planes de nutrición y entrenamiento?",
       "faq.a4": "Sí. Growth Trainer te permite asignar planes personalizados de entrenamiento y nutrición a cada cliente, para gestionar workouts y dieta desde una sola app.",
       "faq.q5": "¿Cuánto cuesta Growth Trainer?",
@@ -317,7 +319,7 @@
       "footer.tagline": "Hecha para entrenadores personales que cuidan los resultados.",
 
       "schema.orgDesc": "Growth Trainer es la app móvil todo-en-uno para que entrenadores personales asignen planes de entrenamiento y nutrición, gestionen clientes y sigan el progreso.",
-      "schema.appDesc": "La app todo-en-uno para entrenadores personales. Asigna planes de entrenamiento y nutrición, crea programas con +500 ejercicios, gestiona clientes y sigue el progreso con analíticas avanzadas.",
+      "schema.appDesc": "La app todo-en-uno para entrenadores personales. Asigna planes de entrenamiento y nutrición, crea programas con +4.000 ejercicios, gestiona clientes y sigue el progreso con analíticas avanzadas.",
       "schema.offerDesc": "Growth Premium — clientes ilimitados, todas las funciones incluidas"
     }
   };
